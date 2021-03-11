@@ -1,0 +1,58 @@
+\section{Methods}
+
+We consider a generative synthetic network for our study similar to \cite{karimi2018homophily}, where the growth is based on the preferential-attachment model and homophily. The network has nodes from 2 groups, marked using the red (minority) and blue (majority) colors. An instance of this network graph $G$ can be considered as a tuple $(N,m,f,h)$ where $N$ is the total number of nodes in the network, $m$ is the number of edges each incoming node makes with existing nodes in the network, $f$ is the fraction of minority nodes in the network and $h$ is the symmetric homophily parameter. By tuning these values, we can generate and study different networks.
+
+For RQ1, we intend to train our RL Learn-to-rank model with a specific clicking (or in this case, choosing) behavior and wish to see how this model finally ranks network nodes. At each iteration of the recommender model training phase, a list of nodes are provided as node connection options, and the model observes the choices made by the clicking model. 
+
+\bigskip
+
+{\setlength{\parindent}{0cm}
+Our clicking model $C$ works according to the following rules - 
+}
+\begin{enumerate}
+	
+	\item The model is provided with an observer node $v \in V$ and a list of options $R_{v}^{t}=(u_{1}^{t},...,u_{k}^{t} | u_{i}^{t} \in V - \{v\}, i \in \{1,...,k\})$ at iteration $t$, where $u_{1}^{t}$ is the 1-st ranked option and $u_{k}^{t}$ is the k-th ranked option at time $t$, $V$ being the set of all nodes in the network. On every training iteration this $k$ sized list is provided to the clicking model for each node $v$.
+	
+	\item The clicking model chooses a maximum of $m$ nodes from the list according to probability $\alpha$ as given in equation-\ref{eq_prob}
+	
+	\begin{equation}
+	\alpha_{v}(u_{i}^{t}) = \frac{\delta(u_{i}^{t}) \times h(u_{i}^{t},v) \times e^{-(i-1)}}{\sum\limits_{j = 1}^{k} (\delta(u_{j}^{t}) \times h(u_{j}^{t},v) \times e^{-(j-1)})} \label{eq_prob}
+	\end{equation}
+	
+	where $h(x,y) \in [0,1]$ denotes the homophily between the nodes $x$ and $y$, and $\delta(x)$ denotes the degree of the node $x$.
+\end{enumerate}
+
+{\setlength{\parindent}{0cm}
+After running this for multiple iterations we see how the nodes rank against each other. In the next section we see some results from this.
+}
+
+\bigskip
+
+For RQ2, we take the network data from the given sources and find out the homophily parameter. We use a similar clicking model and try to find minority ranking at different positions of the recommended nodes. 
+
+\bigskip
+
+For RQ3, we grow a model with a combination of organic and algorithmic as in \cite{stoica2018algorithmic}. Our approach is as following - 
+
+\begin{enumerate}
+	\item We set the network parameters for $G(N,m,f,h)$ as has been defined previously. We want our network to finally grow to resemble $G$ as per the given parameters. 
+	
+	\item We start building out network with $m$ initial nodes, and at each iteration $t$ we choose add phase with probability $\beta$, and growth phase with probability $1-\beta$.
+	\begin{enumerate}
+		\item Add phase : In this phase we add a new node $v$ to the network which chooses maximum of $m$ nodes to connect to from $u^{t} \in V^{t}$, $V^{t}$ being the set of nodes existing in the network $G^{t}$ at iteration $t$ according to the probability $\alpha$ in equation \ref{pref-hom}.
+		
+		\begin{equation}
+		\alpha(u^{t}) = \frac{\delta(u^{t}) \times h(u^{t},v)}{\sum\limits_{w \in V^{t}} (\delta(w^{t}) \times h(w^{t},v))}
+		\label{pref-hom}
+		\end{equation}
+		
+		\item Growth phase : In this phase, we choose to grow the network by connecting existing nodes to each other. A fraction of nodes $\gamma$ is chosen from the existing nodes $V^{t}$ and selected as growing nodes. For each of the growing nodes, we choose either organic growth according to the probability $\eta$, and algorithmic growth according to the probability $1-\eta$. The algorithmic growth is aided by the recommender agent and node choices happen according to equation \ref{eq_prob}, for organic growth is done according to equation \ref{pref-hom}.
+	\end{enumerate}
+
+	\item The reinforcement learning agent needs to be re-trained to accommodate new nodes at an interval of $r$ iterations.
+	
+\end{enumerate}
+
+\bigskip
+
+For RQ4, Existing literature suggests some methods for mitigating biases in link formation, for a better minority visibility, such as tweaking the ranking method for differing thresholds as suggested in \cite{karimi2018homophily} or also introducing choice probability according to node parameters in random-walk as suggested in \cite{stoica2018algorithmic}. In the reinforcement learning model, we could introduce varying reward mechanisms for choosing minority or majority group nodes, but this needs further thought and exploration.

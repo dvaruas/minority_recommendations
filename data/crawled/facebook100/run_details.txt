@@ -1,0 +1,403 @@
+
+Working on File : UCLA26.mat
+no gender information for 1594 nodes
+Missed 136084 connections due to no Gender information
+
+Working on File : USF51.mat
+no gender information for 673 nodes
+Missed 40468 connections due to no Gender information
+
+Working on File : Bucknell39.mat
+no gender information for 239 nodes
+Missed 34220 connections due to no Gender information
+
+Working on File : Williams40.mat
+no gender information for 256 nodes
+Missed 28752 connections due to no Gender information
+
+Working on File : Yale4.mat
+no gender information for 951 nodes
+Missed 112590 connections due to no Gender information
+
+Working on File : Brown11.mat
+no gender information for 929 nodes
+Missed 124906 connections due to no Gender information
+
+Working on File : UChicago30.mat
+no gender information for 673 nodes
+Missed 54334 connections due to no Gender information
+
+Working on File : MSU24.mat
+no gender information for 2117 nodes
+Missed 199898 connections due to no Gender information
+
+Working on File : Notre Dame57.mat
+no gender information for 888 nodes
+Missed 110924 connections due to no Gender information
+
+Working on File : Dartmouth6.mat
+no gender information for 1040 nodes
+Missed 102068 connections due to no Gender information
+
+Working on File : Brandeis99.mat
+no gender information for 358 nodes
+Missed 32958 connections due to no Gender information
+
+Working on File : Texas84.mat
+no gender information for 1930 nodes
+Missed 246840 connections due to no Gender information
+
+Working on File : UC33.mat
+no gender information for 1182 nodes
+Missed 89360 connections due to no Gender information
+
+Working on File : Vermont70.mat
+no gender information for 576 nodes
+Missed 44030 connections due to no Gender information
+
+Working on File : Carnegie49.mat
+no gender information for 543 nodes
+Missed 47782 connections due to no Gender information
+
+Working on File : Temple83.mat
+no gender information for 913 nodes
+Missed 67864 connections due to no Gender information
+
+Working on File : UCSC68.mat
+no gender information for 569 nodes
+Missed 36602 connections due to no Gender information
+
+Working on File : UCSB37.mat
+no gender information for 973 nodes
+Missed 75084 connections due to no Gender information
+
+Working on File : UGA50.mat
+no gender information for 1558 nodes
+Missed 226080 connections due to no Gender information
+
+Working on File : Berkeley13.mat
+no gender information for 2004 nodes
+Missed 210478 connections due to no Gender information
+
+Working on File : USFCA72.mat
+no gender information for 175 nodes
+Missed 9958 connections due to no Gender information
+
+Working on File : Syracuse56.mat
+no gender information for 953 nodes
+Missed 120134 connections due to no Gender information
+
+Working on File : Duke14.mat
+no gender information for 849 nodes
+Missed 107892 connections due to no Gender information
+
+Working on File : Tennessee95.mat
+no gender information for 1027 nodes
+Missed 123374 connections due to no Gender information
+
+Working on File : MIT8.mat
+no gender information for 617 nodes
+Missed 44828 connections due to no Gender information
+
+Working on File : Maryland58.mat
+no gender information for 1382 nodes
+Missed 127858 connections due to no Gender information
+
+Working on File : BC17.mat
+no gender information for 810 nodes
+Missed 100084 connections due to no Gender information
+
+Working on File : William77.mat
+no gender information for 513 nodes
+Missed 63434 connections due to no Gender information
+
+Working on File : Baylor93.mat
+no gender information for 765 nodes
+Missed 125156 connections due to no Gender information
+
+Working on File : Wisconsin87.mat
+no gender information for 1676 nodes
+Missed 160006 connections due to no Gender information
+
+Working on File : UVA16.mat
+no gender information for 1465 nodes
+Missed 169412 connections due to no Gender information
+
+Working on File : GWU54.mat
+no gender information for 946 nodes
+Missed 92374 connections due to no Gender information
+
+Working on File : Villanova62.mat
+no gender information for 712 nodes
+Missed 78492 connections due to no Gender information
+
+Working on File : Stanford3.mat
+no gender information for 1310 nodes
+Missed 118882 connections due to no Gender information
+
+Working on File : Texas80.mat
+no gender information for 2068 nodes
+Missed 225760 connections due to no Gender information
+
+Working on File : FSU53.mat
+no gender information for 1429 nodes
+Missed 153064 connections due to no Gender information
+
+Working on File : Wesleyan43.mat
+no gender information for 406 nodes
+Missed 47392 connections due to no Gender information
+
+Working on File : Indiana69.mat
+no gender information for 2116 nodes
+Missed 242572 connections due to no Gender information
+
+Working on File : Bingham82.mat
+no gender information for 688 nodes
+Missed 74912 connections due to no Gender information
+
+Working on File : Middlebury45.mat
+no gender information for 271 nodes
+Missed 32238 connections due to no Gender information
+
+Working on File : Haverford76.mat
+no gender information for 96 nodes
+Missed 11370 connections due to no Gender information
+
+Working on File : Colgate88.mat
+no gender information for 302 nodes
+Missed 45014 connections due to no Gender information
+
+Working on File : Rochester38.mat
+no gender information for 278 nodes
+Missed 27592 connections due to no Gender information
+
+Working on File : Trinity100.mat
+no gender information for 239 nodes
+Missed 32792 connections due to no Gender information
+
+Working on File : Caltech36.mat
+no gender information for 66 nodes
+Missed 2384 connections due to no Gender information
+
+Working on File : UF21.mat
+no gender information for 2044 nodes
+Missed 215330 connections due to no Gender information
+
+Working on File : Hamilton46.mat
+no gender information for 183 nodes
+Missed 21700 connections due to no Gender information
+
+Working on File : UPenn7.mat
+no gender information for 1610 nodes
+Missed 190584 connections due to no Gender information
+
+Working on File : Maine59.mat
+no gender information for 624 nodes
+Missed 46424 connections due to no Gender information
+
+Working on File : Michigan23.mat
+no gender information for 2362 nodes
+Missed 223676 connections due to no Gender information
+
+Working on File : Reed98.mat
+no gender information for 97 nodes
+Missed 5728 connections due to no Gender information
+
+Working on File : Lehigh96.mat
+no gender information for 335 nodes
+Missed 36322 connections due to no Gender information
+
+Working on File : Swarthmore42.mat
+no gender information for 138 nodes
+Missed 14648 connections due to no Gender information
+
+Working on File : NYU9.mat
+no gender information for 1653 nodes
+Missed 133022 connections due to no Gender information
+
+Working on File : UC61.mat
+no gender information for 1146 nodes
+Missed 92174 connections due to no Gender information
+
+Working on File : Tulane29.mat
+no gender information for 553 nodes
+Missed 54844 connections due to no Gender information
+
+Working on File : Smith60.mat
+no gender information for 337 nodes
+Missed 39748 connections due to no Gender information
+
+Working on File : Northeastern19.mat
+no gender information for 937 nodes
+Missed 71198 connections due to no Gender information
+
+Working on File : Harvard1.mat
+no gender information for 2059 nodes
+Missed 283558 connections due to no Gender information
+
+Working on File : American75.mat
+no gender information for 375 nodes
+Missed 29034 connections due to no Gender information
+
+Working on File : Auburn71.mat
+no gender information for 1037 nodes
+Missed 176970 connections due to no Gender information
+
+Working on File : UCF52.mat
+no gender information for 470 nodes
+Missed 37300 connections due to no Gender information
+
+Working on File : WashU32.mat
+no gender information for 554 nodes
+Missed 68874 connections due to no Gender information
+
+Working on File : Oklahoma97.mat
+no gender information for 1169 nodes
+Missed 172876 connections due to no Gender information
+
+Working on File : Virginia63.mat
+no gender information for 1408 nodes
+Missed 135532 connections due to no Gender information
+
+Working on File : Amherst41.mat
+no gender information for 203 nodes
+Missed 24442 connections due to no Gender information
+
+Working on File : Columbia2.mat
+no gender information for 1314 nodes
+Missed 126742 connections due to no Gender information
+
+Working on File : BU10.mat
+no gender information for 1345 nodes
+Missed 124612 connections due to no Gender information
+
+Working on File : Princeton12.mat
+no gender information for 716 nodes
+Missed 83950 connections due to no Gender information
+
+Working on File : Mississippi66.mat
+no gender information for 683 nodes
+Missed 131936 connections due to no Gender information
+
+Working on File : Oberlin44.mat
+no gender information for 272 nodes
+Missed 26314 connections due to no Gender information
+
+Working on File : Wake73.mat
+no gender information for 392 nodes
+Missed 63994 connections due to no Gender information
+
+Working on File : Vanderbilt48.mat
+no gender information for 646 nodes
+Missed 112250 connections due to no Gender information
+
+Working on File : Rutgers89.mat
+no gender information for 1710 nodes
+Missed 137558 connections due to no Gender information
+
+Working on File : Simmons81.mat
+no gender information for 96 nodes
+Missed 5004 connections due to no Gender information
+
+Working on File : UCSD34.mat
+no gender information for 1061 nodes
+Missed 71978 connections due to no Gender information
+
+Working on File : Cal65.mat
+no gender information for 629 nodes
+Missed 50250 connections due to no Gender information
+
+Working on File : Tufts18.mat
+no gender information for 556 nodes
+Missed 60486 connections due to no Gender information
+
+Working on File : Georgetown15.mat
+no gender information for 920 nodes
+Missed 124616 connections due to no Gender information
+
+Working on File : Rice31.mat
+no gender information for 263 nodes
+Missed 26450 connections due to no Gender information
+
+Working on File : USC35.mat
+no gender information for 1352 nodes
+Missed 154446 connections due to no Gender information
+
+Working on File : schools.mat
+Could not find the key : local_info, CHECK!
+
+Working on File : Cornell5.mat
+no gender information for 1838 nodes
+Missed 210894 connections due to no Gender information
+
+Working on File : Bowdoin47.mat
+no gender information for 199 nodes
+Missed 21896 connections due to no Gender information
+
+Working on File : MU78.mat
+no gender information for 938 nodes
+Missed 114156 connections due to no Gender information
+
+Working on File : UIllinois20.mat
+no gender information for 1967 nodes
+Missed 200566 connections due to no Gender information
+
+Working on File : UC64.mat
+no gender information for 481 nodes
+Missed 22012 connections due to no Gender information
+
+Working on File : Northwestern25.mat
+no gender information for 877 nodes
+Missed 107688 connections due to no Gender information
+
+Working on File : UMass92.mat
+no gender information for 1114 nodes
+Missed 104602 connections due to no Gender information
+
+Working on File : Emory27.mat
+no gender information for 544 nodes
+Missed 64586 connections due to no Gender information
+
+Working on File : UConn91.mat
+no gender information for 1119 nodes
+Missed 114138 connections due to no Gender information
+
+Working on File : UNC28.mat
+no gender information for 1339 nodes
+Missed 162370 connections due to no Gender information
+
+Working on File : Johns Hopkins55.mat
+no gender information for 418 nodes
+Missed 34916 connections due to no Gender information
+
+Working on File : Santa74.mat
+no gender information for 178 nodes
+Missed 24214 connections due to no Gender information
+
+Working on File : Vassar85.mat
+no gender information for 277 nodes
+Missed 31882 connections due to no Gender information
+
+Working on File : Penn94.mat
+no gender information for 2739 nodes
+Missed 225960 connections due to no Gender information
+
+Working on File : Pepperdine86.mat
+no gender information for 167 nodes
+Missed 19178 connections due to no Gender information
+
+Working on File : Howard90.mat
+no gender information for 168 nodes
+Missed 20664 connections due to no Gender information
+
+Working on File : Wellesley22.mat
+no gender information for 277 nodes
+Missed 32090 connections due to no Gender information
+
+Working on File : Mich67.mat
+no gender information for 185 nodes
+Missed 9402 connections due to no Gender information
+
+Working on File : JMU79.mat
+no gender information for 767 nodes
+Missed 73480 connections due to no Gender information

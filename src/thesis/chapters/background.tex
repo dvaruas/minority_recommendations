@@ -1,0 +1,55 @@
+\chapter{Background}
+\label{chapter_background}
+\thispagestyle{empty}
+
+We try to consolidate the relevant background for our thesis in this chapter by talking about prior research conducted by other researchers with respect to the topic and also parallelly provide a theoretical base on which we expand further as we progress through the thesis. 
+
+A lot of the existing research focuses on how minorities are represented in a network. Ranking of users is a common phenomenon in different circumstances, which could either be related to distribution of opportunities or in-general visibility of a particular subgroup within an ecosystem \cite{brin1998anatomy,horowitz2010anatomy,chalfin2016productivity}. Ranking systems in the real-world are driven by algorithms and agents which make decisions based on the network structure and/or node attributes \cite{adamic2003friends,gupta2013wtf,backstrom2011supervised}, and hence this has been a primary motivation to study how different groups fair in such rankings. We start by talking about networks and the simulation methods used by previous researchers (and also by us) to generate imitative representative networks with controlled parameters. We also talk about homophily as a parameter which has been observed by many researchers to play a crucial role in real-world tie formations. Finally we talk about reinforcement learning, and specifically `learning to rank' methods which we use in a novel way to perform user recommendations for networks in our thesis.
+
+\section{Networks}
+\label{back_networks}
+We define a network as a \textit{graph} $G(V,E)$ which is defined by its set of vertices $V$ where a vertex $v \in V$ might possess certain vertex attributes, and \textit{edges} $E$ which connect these vertices with each other. 
+
+Vertex attributes helps to identify vertices individually and also associate them in groups. In the context of social networks, vertex attributes could be different demographics parameters like age, sex, educational qualification, nationality, ethnicity, etc. Edges in a network are links among vertices which represent connectivity amongst them. These edges could be directed or undirected which leads to the formation of directed and undirected graphs respectively. Some social network graphs are directed for example the networks for Twitter or Instagram, while others are undirected, for example LinkedIN, Facebook, Google+. In the social network perspective a directed edge signifies that the vertex from which the edge originates is subscribed to (or follows) updates and events originating from the vertex to which the edge is destined.
+
+In our thesis, we often refer \textit{vertices} as \textit{nodes} and \textit{graphs} as \textit{networks}. These terms are used interchangeably and for the purpose of our thesis they mean exactly the same unless otherwise specified. 
+
+Also we consider vertices to possess a generic vertex attribute which designates it to either the \textit{minority} or the \textit{majority} group in the graph. Going forward, we visualize vertices belonging to the \textit{minority} group with the color \textit{red} and vertices belonging to the \textit{majority} group with the color \textit{blue}.
+
+\subsection{Homophily}
+Homophily as a concept defines the tendency of individuals to form connections with others who are similar to them. This phenomenon has been observed for many centuries as human behavior by several philosophers, like Plato, who in Phaedrus \cite{hackforth1972plato} says \textit{``Similarity begets friendship''}, acknowledging this innate propensity.
+
+There are however varying degrees of homophily in real-world networks depending on the kind of network it is. This could lead to a network being either \textit{heterophilic} (nodes in a network tend to connect mostly with nodes belonging to other group) or \textit{homophilic} (nodes in a network tend to connect to nodes belonging to the same group).
+
+Symmetric homophily signifies that the propensity of connecting within the same group is same for both groups, while asymmetric homophily signifies different propensities. Real-world networks usually exhibit varying degrees of asymmetric homophily.
+
+Networks like sexual contact network or online dating network shows high degree of heterophily. Scientific collaborations networks exhibit moderate homophily while scientific citation networks have high degree of homophily in them. 
+
+How homophily changes the network structure and affects visibility of groups have been studied by several researchers \cite{stoica2018algorithmic,avin2015homophily,mcpherson2001birds,karimi2018homophily}. In our thesis we follow a similar approach of studying homophily to see its effect in our experiments. 
+
+In the context of our thesis, we define homophily between two nodes $u$ and $v$ as $h_{uv}$. Given the symmetric homophily parameter value of $h$ the value of which can range in between $[0, 1]$, $h_{uv}=h$ when $u$ and $v$ both belong to the same group, and $h_{uv}=(1-h)$ if $u$ and $v$ belongs to two different groups. Complete heterophily is signified by a value of $h=0$, where the network forms a bipartite graph. The network is in the heterophilic regime for $0 \leq h \leq 0.5$. At $h=0.5$, the group to which the node belongs does not affect the node's decision to form connections. Between $0.5 \leq h \leq 1.0$, networks belong to the homophilic regime and at $h=1$ the network is considered to be completely homophilic, resulting in a disconnected graph.
+
+\subsection{Synthetic Network Generation - Barabási-Albert Model}
+\label{ba_model}
+The Barabási-Albert model \cite{barabasi1999emergence} for generation of synthetic networks was proposed by Barabási and Albert in 1999. Previous network generative models like Erdős-Rényi model \cite{erdds1959random}, Gilbert's random graph model \cite{gilbert1959random} or Watts-Strogatz model \cite{watts1998collective} failed to capture the high degree consolidation effect (or the ``rich-getting-richer'' effect) appropriately. This was the first model which factored in both `growth' and `preferential attachment' as influencers to the formation of network graphs, factors which gave these generated networks the real-world perceived scale-free effect. 
+
+The generation process starts with a network having $m_{0}$ nodes. At each iteration $i$, a new node $v_{i}$ joins the network and forms $m \leq m_{0}$ edges with the existing nodes of the network ($V_{i-1}$). The probability of an existing node $u \in V_{i-1}$ to be chosen by the incoming node $v_{i}$ to form an edge with is given by equation \ref{ba_model_eq} where $\delta(x)$ denotes the degree of node $x$. 
+
+\begin{equation}
+\label{ba_model_eq}
+\Pi_{u} = \delta(u) / \sum_{w \in V_{i-1}}^{}\delta(w)
+\end{equation}
+
+As we can see from equation \ref{ba_model_eq} nodes having higher degrees in the network give a higher probability value, thus imitating the \textit{rich-getting-richer} effect seen in real-world networks. 
+
+This base model was extended to include the homophily parameter by several researchers \cite{karimi2018homophily,de2013scale,avin2015homophily}, with different approaches having varying degrees of similarities in them. For the purpose of this thesis we select the model by Karimi et. al. \cite{karimi2018homophily}. We go into details of this extended model in chapter \ref{recommender_methods} where we use this extended model for generation of our own synthetic networks.
+
+\section{Reinforcement Learning}
+
+Reinforcement Learning is a branch of machine learning which had been there for a long time, but only over the last decade has slowly started to gain popularity in the research community.
+
+The basic setting for a reinforcement learning task is having an \textbf{Agent} $A$ which is capable of performing a set of actions $C_{A}$ in an \textbf{Environment} $E$. The agent $A$ learns via trial-and-error to optimize its actions from $C_{A}$ to perform a certain goal task $G$. For every action it takes inside the environment $E$, it is provided with a \textit{positive} or \textit{negative} reward based on some \textit{reward function} defined for the environment. This reward acts as a feedback for the agent and with time \textit{reinforces} the belief about which actions benefits it and which actions harms its cause. Thus the agent through exploration of the space provided to it can learn on its own how to perform a given task rather than being guided by some omniscient force. This kind of psychological reinforcement can be found in almost all kinds of human learning, making \textit{Reinforcement Learning} a part of the \textit{`Bio-inspired computing'} methods which have been enjoying huge popularity over the past few years.
+
+\textit{Learning to Rank} is a specific task type in this kind of a learning setting where an AI agent is supposed to learn how to rank various items in order of their preference for a specific need. Ranking search query results is a popular `learning to rank' problem which has been solved previously using reinforcement learning techniques by several researchers \cite{radlinski2008learning,lattimore2018toprank}. In our thesis we take such methods and apply them to a completely novel setting of ranking nodes to recommend for a user-recommendation engine. What motivated us to do this, we have already talked about, in the introduction to our thesis (chapter \ref{introduction}). 
+
+In the following chapter along with the other recommender methods we will look into more detail at the reinforcement learning methods we use for our study.

@@ -1,0 +1,21 @@
+__pycache__
+*.pyc
+
+# Ignoring the Tex Studio outputs
+*.aux
+*.log
+*.gz
+*.bbl
+*.blg
+*.bcf
+*.out
+*.run.xml
+*.toc
+
+# Ignore the synthetic networks, can rebuild them using logfiles.
+*.adjlist
+*.type
+
+# Ignore facebook100 original dataset
+facebook100_zip
+*.gender

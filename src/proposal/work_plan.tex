@@ -1,0 +1,55 @@
+\section{Work Plan}
+
+{\renewcommand{\arraystretch}{1.5}
+\begin{center}
+\begin{table}
+	\caption{\label{work-plan}work-plan}
+	\begin{tabular}{| R{1cm} || p{9.5cm} | C{1.5cm} |}
+		\hline
+		\textbf{\#} & \textbf{Task} & \textbf{Time} \\ [0.5ex]
+		\hline\hline
+		RQ1 & & 2 weeks \\
+		\hline
+		1.1. & Implementing Ranked-Bandits algorithm \cite{radlinski2008learning} to rank nodes in a synthetic network & 1 week \\
+		1.2. & Implementing TopRank algorithm \cite{lattimore2018toprank} to rank nodes in a synthetic network & 2 week \\
+		\hline\hline
+		RQ2 & & 3 weeks \\
+		\hline
+		2.1. & Implementing code to rank Instagram nodes \cite{stoica2018algorithmic} using TopRank, Ranked-Bandits, Adamic Adar and Random-Walk & 1 week \\
+		2.2. & Implementing code to rank Facebook nodes \cite{traud2012social} using TopRank, Ranked-Bandits, Adamic Adar and Random-Walk & 1 week \\
+		2.3. & Implementing code to rank Google+ nodes \cite{leskovec2012learning} using TopRank, Ranked-Bandits, Adamic Adar and Random-Walk & 1 week \\
+		\hline\hline
+		RQ3 & & 3 weeks \\
+		\hline
+		3.1. & Implementing code to grow a network using a recommender system & 2 week \\
+		3.2. & Adapting code in 3.1 to use Ranked-Bandits, TopRank, Adamic-Adar, Random Walk and grow synthetic networks & 1 week \\
+		\hline\hline
+		RQ4 & & 6 weeks \\
+		\hline
+		4.1. & Figuring out how to reinforce no-bias policy in reinforcement learning agent for recommender system & 2 week \\
+		4.2 & Implementing code for our reinforcement learning recommender as in 4.1 & 2 week \\
+		4.3 & Testing our implemented model 4.2 with synthetic networks and seeing the network properties of the growing network & 2 week \\
+		\hline\hline
+		Misc. & & 10 weeks \\
+		\hline
+		5.1. & Implementing matplotlib code for different plots required & 2 weeks \\
+		5.2. & Writing Thesis Draft & 5 weeks \\
+		5.3. & Revision and Final submission of Thesis & 3 weeks \\
+		\hline
+	\end{tabular}
+
+\end{table}
+\end{center}
+}
+
+Table \ref{work-plan} gives a broad overview of the tasks that will be undertaken in the scope of this thesis and the approximate time required for their completion. Both the tasks and their times are broad approximations and are subject to change or overlap amongst each other.
+
+Implementation software requirements - 
+\begin{enumerate}
+	\item Computational code : written using Cython.
+	\item Helper Code : written using Python.
+	\item Plotting of data : Python (packages - Matplotlib).
+	\item Handling Network Data : Python (packages - NetworkX).
+	\item Additional Python Packages : NumPy, SciPy.
+	\item Documentation : \LaTeX
+\end{enumerate}

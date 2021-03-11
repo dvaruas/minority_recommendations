@@ -1,0 +1,80 @@
+%%%%%%% Document settings %%%%%%%%%%
+\documentclass{CSSHThesis}
+
+%%%%%%%%%%% Additional Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Some suggestions are added, simply uncomment
+%Highlight todos within text
+% \usepackage[colorinlistoftodos,prependcaption, textsize=tiny]{todonotes} 
+% \newcommandx{\note}[2][1=]{\todo[inline, size = \small, backgroundcolor=SeaGreen!25, bordercolor=PineGreen, #1]{#2}}
+% \usepackage{algorithm} %Algorithm environment, requires texlive-science
+% \usepackage{listings}
+% \usepackage{algpseudocode} %Pseudocode commands used in algorithm
+% \renewcommand{\algorithmicrequire}{\textbf{Input: }}
+% \renewcommand{\algorithmicensure}{\textbf{Output: }}
+\usepackage[linesnumbered,ruled,vlined]{algorithm2e}
+\usepackage{sidecap}
+\usepackage[toc,page]{appendix}
+\sidecaptionvpos{figure}{t}
+
+%%%%%%%%%%% Personalized commands and definitions %%%%%%%%%
+\newcommand{\bigO}[1]{\ensuremath{\mathcal{O}\big(#1\big)}}
+\newtheorem*{theorem}{Theorem}
+\DeclareMathOperator{\supp}{supp} %prevents mathmode to change the font
+%Plot own functions using tikz and pgfplot
+\pgfplotsset{compat=1.13}
+\pgfmathdeclarefunction{gauss}{2}{%
+  \pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%% Hyphenations %%%%%%%%%%%%%%
+\hyphenation{trac-ta-ble}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\overfullrule=2cm %Show hboxes incase of misalignment, uncomment before handing in!
+
+\bibliography{references.bib}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%% Frontpage %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\def \TypeofThesis{Master Thesis}
+\def \TitleofThesis{Recommending minorities in Online Social Networks}
+\def \AuthorofThesis{Saurav Das}
+\def \FirstSupervisor{Prof. Dr. Markus Strohmaier}
+\def \SecondSupervisor{Dr. Simon Völker}
+\def \Advisor{Prof. Dr. Markus Strohmaier}
+\input{frontpage}
+
+%%%%%%%%%%%%%%%%%%%%% Abstract %%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newpage
+\thispagestyle{plain}
+\begin{abstract}
+	Recommender systems form an integral part of Online Social network communities and play a crucial role in shaping the evolution of network structures. Thus, it is important to understand how much of the bias is seen in the user recommendations provided by these agents and their effect on the network over a period of time. We consider synthetic networks with different homophilies and minority group sizes and perform experiments with several recommender agents to systematically study this kind of bias. We also grow networks under the influence of several recommender systems (much like in a real-world setting) and analyze the evolved network structures. Through our study we find that recommendation methods like \textit{Adamic-Adar} or \textit{Twitter-Rank} leads to the formation of unbiased networks and has a balanced visibility for both groups in a network relative to their respective group sizes. Finally we also use recommendation methods on some empirical Facebook networks to analyze the bias in visibility for different node groups in the recommendations provided by our recommendation methods.
+\end{abstract}
+\cleardoublepage
+\pagenumbering{arabic} %pagenumbering always resets the page number
+
+% Chapter 1
+\input{chapters/introduction.tex}
+% Chapter 2
+\input{chapters/background.tex}
+% Chapter 3
+\input{chapters/methods.tex}
+% Chapter 4
+\input{chapters/analysis_synthetic.tex}
+% Chapter 5
+\input{chapters/case_study.tex}
+% Chapter 6
+\input{chapters/discussions.tex}
+% Chapter 7
+\input{chapters/conclusions.tex}
+
+%%%%%%%%%%%%%%%%%%%%% Bibliography %%%%%%%%%%%%%%%%%%%%%% 
+\addcontentsline{toc}{chapter}{Bibliography}
+\printbibliography
+
+% Appendix 
+\input{chapters/appendix.tex}
+
+\end{document}  

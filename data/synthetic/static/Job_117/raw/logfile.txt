@@ -1,0 +1,2996 @@
+Added Node : 0, type : minority
+Added Node : 1, type : majority
+Added Node : 2, type : majority
+Added Edge : 2, 1
+Added Edge : 2, 0
+Added Node : 3, type : majority
+Added Edge : 3, 2
+Added Edge : 3, 1
+Added Node : 4, type : minority
+Added Edge : 4, 2
+Added Edge : 4, 1
+Added Node : 5, type : majority
+Added Edge : 5, 1
+Added Edge : 5, 2
+Added Node : 6, type : majority
+Added Edge : 6, 2
+Added Edge : 6, 5
+Added Node : 7, type : minority
+Added Edge : 7, 1
+Added Edge : 7, 6
+Added Node : 8, type : majority
+Added Edge : 8, 1
+Added Edge : 8, 6
+Added Node : 9, type : minority
+Added Edge : 9, 7
+Added Edge : 9, 1
+Added Node : 10, type : minority
+Added Edge : 10, 9
+Added Edge : 10, 7
+Added Node : 11, type : majority
+Added Edge : 11, 1
+Added Edge : 11, 2
+Added Node : 12, type : majority
+Added Edge : 12, 4
+Added Edge : 12, 6
+Added Node : 13, type : minority
+Added Edge : 13, 10
+Added Edge : 13, 5
+Added Node : 14, type : minority
+Added Edge : 14, 7
+Added Edge : 14, 4
+Added Node : 15, type : majority
+Added Edge : 15, 8
+Added Edge : 15, 1
+Added Node : 16, type : minority
+Added Edge : 16, 7
+Added Edge : 16, 9
+Added Node : 17, type : minority
+Added Edge : 17, 9
+Added Edge : 17, 6
+Added Node : 18, type : minority
+Added Edge : 18, 1
+Added Edge : 18, 7
+Added Node : 19, type : minority
+Added Edge : 19, 4
+Added Edge : 19, 10
+Added Node : 20, type : minority
+Added Edge : 20, 7
+Added Edge : 20, 1
+Added Node : 21, type : majority
+Added Edge : 21, 2
+Added Edge : 21, 11
+Added Node : 22, type : minority
+Added Edge : 22, 21
+Added Edge : 22, 5
+Added Node : 23, type : majority
+Added Edge : 23, 1
+Added Edge : 23, 11
+Added Node : 24, type : majority
+Added Edge : 24, 2
+Added Edge : 24, 12
+Added Node : 25, type : minority
+Added Edge : 25, 7
+Added Edge : 25, 14
+Added Node : 26, type : majority
+Added Edge : 26, 2
+Added Edge : 26, 22
+Added Node : 27, type : majority
+Added Edge : 27, 10
+Added Edge : 27, 1
+Added Node : 28, type : minority
+Added Edge : 28, 14
+Added Edge : 28, 10
+Added Node : 29, type : minority
+Added Edge : 29, 17
+Added Edge : 29, 11
+Added Node : 30, type : minority
+Added Edge : 30, 21
+Added Edge : 30, 10
+Added Node : 31, type : minority
+Added Edge : 31, 1
+Added Edge : 31, 4
+Added Node : 32, type : majority
+Added Edge : 32, 6
+Added Edge : 32, 2
+Added Node : 33, type : majority
+Added Edge : 33, 7
+Added Edge : 33, 1
+Added Node : 34, type : minority
+Added Edge : 34, 11
+Added Edge : 34, 20
+Added Node : 35, type : majority
+Added Edge : 35, 1
+Added Edge : 35, 34
+Added Node : 36, type : majority
+Added Edge : 36, 27
+Added Edge : 36, 1
+Added Node : 37, type : minority
+Added Edge : 37, 34
+Added Edge : 37, 7
+Added Node : 38, type : minority
+Added Edge : 38, 2
+Added Edge : 38, 34
+Added Node : 39, type : majority
+Added Edge : 39, 26
+Added Edge : 39, 8
+Added Node : 40, type : majority
+Added Edge : 40, 2
+Added Edge : 40, 6
+Added Node : 41, type : majority
+Added Edge : 41, 3
+Added Edge : 41, 40
+Added Node : 42, type : minority
+Added Edge : 42, 31
+Added Edge : 42, 6
+Added Node : 43, type : majority
+Added Edge : 43, 6
+Added Edge : 43, 34
+Added Node : 44, type : majority
+Added Edge : 44, 24
+Added Edge : 44, 36
+Added Node : 45, type : majority
+Added Edge : 45, 24
+Added Edge : 45, 34
+Added Node : 46, type : minority
+Added Edge : 46, 31
+Added Edge : 46, 42
+Added Node : 47, type : minority
+Added Edge : 47, 38
+Added Edge : 47, 15
+Added Node : 48, type : majority
+Added Edge : 48, 2
+Added Edge : 48, 31
+Added Node : 49, type : minority
+Added Edge : 49, 21
+Added Edge : 49, 44
+Added Node : 50, type : majority
+Added Edge : 50, 2
+Added Edge : 50, 4
+Added Node : 51, type : minority
+Added Edge : 51, 0
+Added Edge : 51, 23
+Added Node : 52, type : minority
+Added Edge : 52, 8
+Added Edge : 52, 46
+Added Node : 53, type : minority
+Added Edge : 53, 18
+Added Edge : 53, 49
+Added Node : 54, type : majority
+Added Edge : 54, 2
+Added Edge : 54, 26
+Added Node : 55, type : majority
+Added Edge : 55, 2
+Added Edge : 55, 11
+Added Node : 56, type : minority
+Added Edge : 56, 34
+Added Edge : 56, 7
+Added Node : 57, type : minority
+Added Edge : 57, 11
+Added Edge : 57, 13
+Added Node : 58, type : minority
+Added Edge : 58, 9
+Added Edge : 58, 7
+Added Node : 59, type : majority
+Added Edge : 59, 40
+Added Edge : 59, 45
+Added Node : 60, type : majority
+Added Edge : 60, 21
+Added Edge : 60, 2
+Added Node : 61, type : minority
+Added Edge : 61, 22
+Added Edge : 61, 0
+Added Node : 62, type : minority
+Added Edge : 62, 34
+Added Edge : 62, 18
+Added Node : 63, type : minority
+Added Edge : 63, 6
+Added Edge : 63, 0
+Added Node : 64, type : minority
+Added Edge : 64, 42
+Added Edge : 64, 16
+Added Node : 65, type : minority
+Added Edge : 65, 17
+Added Edge : 65, 14
+Added Node : 66, type : majority
+Added Edge : 66, 43
+Added Edge : 66, 40
+Added Node : 67, type : minority
+Added Edge : 67, 61
+Added Edge : 67, 49
+Added Node : 68, type : minority
+Added Edge : 68, 24
+Added Edge : 68, 9
+Added Node : 69, type : majority
+Added Edge : 69, 15
+Added Edge : 69, 2
+Added Node : 70, type : majority
+Added Edge : 70, 55
+Added Edge : 70, 2
+Added Node : 71, type : majority
+Added Edge : 71, 36
+Added Edge : 71, 24
+Added Node : 72, type : minority
+Added Edge : 72, 20
+Added Edge : 72, 7
+Added Node : 73, type : majority
+Added Edge : 73, 43
+Added Edge : 73, 2
+Added Node : 74, type : minority
+Added Edge : 74, 62
+Added Edge : 74, 22
+Added Node : 75, type : majority
+Added Edge : 75, 15
+Added Edge : 75, 10
+Added Node : 76, type : minority
+Added Edge : 76, 30
+Added Edge : 76, 45
+Added Node : 77, type : majority
+Added Edge : 77, 26
+Added Edge : 77, 39
+Added Node : 78, type : majority
+Added Edge : 78, 2
+Added Edge : 78, 66
+Added Node : 79, type : majority
+Added Edge : 79, 21
+Added Edge : 79, 6
+Added Node : 80, type : majority
+Added Edge : 80, 9
+Added Edge : 80, 26
+Added Node : 81, type : minority
+Added Edge : 81, 76
+Added Edge : 81, 34
+Added Node : 82, type : minority
+Added Edge : 82, 47
+Added Edge : 82, 20
+Added Node : 83, type : minority
+Added Edge : 83, 0
+Added Edge : 83, 66
+Added Node : 84, type : minority
+Added Edge : 84, 42
+Added Edge : 84, 72
+Added Node : 85, type : minority
+Added Edge : 85, 0
+Added Edge : 85, 9
+Added Node : 86, type : majority
+Added Edge : 86, 6
+Added Edge : 86, 5
+Added Node : 87, type : majority
+Added Edge : 87, 1
+Added Edge : 87, 2
+Added Node : 88, type : majority
+Added Edge : 88, 2
+Added Edge : 88, 0
+Added Node : 89, type : majority
+Added Edge : 89, 1
+Added Edge : 89, 36
+Added Node : 90, type : minority
+Added Edge : 90, 16
+Added Edge : 90, 34
+Added Node : 91, type : minority
+Added Edge : 91, 81
+Added Edge : 91, 20
+Added Node : 92, type : minority
+Added Edge : 92, 9
+Added Edge : 92, 4
+Added Node : 93, type : minority
+Added Edge : 93, 2
+Added Edge : 93, 9
+Added Node : 94, type : majority
+Added Edge : 94, 12
+Added Edge : 94, 20
+Added Node : 95, type : majority
+Added Edge : 95, 8
+Added Edge : 95, 11
+Added Node : 96, type : minority
+Added Edge : 96, 0
+Added Edge : 96, 62
+Added Node : 97, type : majority
+Added Edge : 97, 84
+Added Edge : 97, 89
+Added Node : 98, type : minority
+Added Edge : 98, 34
+Added Edge : 98, 76
+Added Node : 99, type : minority
+Added Edge : 99, 9
+Added Edge : 99, 85
+Added Node : 100, type : majority
+Added Edge : 100, 59
+Added Edge : 100, 9
+Added Node : 101, type : majority
+Added Edge : 101, 1
+Added Edge : 101, 36
+Added Node : 102, type : minority
+Added Edge : 102, 31
+Added Edge : 102, 10
+Added Node : 103, type : minority
+Added Edge : 103, 4
+Added Edge : 103, 10
+Added Node : 104, type : majority
+Added Edge : 104, 86
+Added Edge : 104, 49
+Added Node : 105, type : majority
+Added Edge : 105, 81
+Added Edge : 105, 95
+Added Node : 106, type : majority
+Added Edge : 106, 92
+Added Edge : 106, 1
+Added Node : 107, type : minority
+Added Edge : 107, 46
+Added Edge : 107, 18
+Added Node : 108, type : minority
+Added Edge : 108, 37
+Added Edge : 108, 30
+Added Node : 109, type : minority
+Added Edge : 109, 7
+Added Edge : 109, 9
+Added Node : 110, type : minority
+Added Edge : 110, 96
+Added Edge : 110, 108
+Added Node : 111, type : minority
+Added Edge : 111, 4
+Added Edge : 111, 10
+Added Node : 112, type : minority
+Added Edge : 112, 0
+Added Edge : 112, 17
+Added Node : 113, type : majority
+Added Edge : 113, 0
+Added Edge : 113, 2
+Added Node : 114, type : majority
+Added Edge : 114, 87
+Added Edge : 114, 2
+Added Node : 115, type : minority
+Added Edge : 115, 46
+Added Edge : 115, 34
+Added Node : 116, type : minority
+Added Edge : 116, 103
+Added Edge : 116, 72
+Added Node : 117, type : majority
+Added Edge : 117, 11
+Added Edge : 117, 44
+Added Node : 118, type : minority
+Added Edge : 118, 34
+Added Edge : 118, 90
+Added Node : 119, type : minority
+Added Edge : 119, 103
+Added Edge : 119, 83
+Added Node : 120, type : majority
+Added Edge : 120, 80
+Added Edge : 120, 2
+Added Node : 121, type : majority
+Added Edge : 121, 100
+Added Edge : 121, 7
+Added Node : 122, type : majority
+Added Edge : 122, 113
+Added Edge : 122, 15
+Added Node : 123, type : minority
+Added Edge : 123, 118
+Added Edge : 123, 36
+Added Node : 124, type : majority
+Added Edge : 124, 1
+Added Edge : 124, 69
+Added Node : 125, type : minority
+Added Edge : 125, 80
+Added Edge : 125, 58
+Added Node : 126, type : majority
+Added Edge : 126, 113
+Added Edge : 126, 2
+Added Node : 127, type : minority
+Added Edge : 127, 18
+Added Edge : 127, 79
+Added Node : 128, type : majority
+Added Edge : 128, 4
+Added Edge : 128, 44
+Added Node : 129, type : majority
+Added Edge : 129, 1
+Added Edge : 129, 7
+Added Node : 130, type : majority
+Added Edge : 130, 35
+Added Edge : 130, 40
+Added Node : 131, type : minority
+Added Edge : 131, 16
+Added Edge : 131, 39
+Added Node : 132, type : majority
+Added Edge : 132, 119
+Added Edge : 132, 40
+Added Node : 133, type : majority
+Added Edge : 133, 97
+Added Edge : 133, 96
+Added Node : 134, type : majority
+Added Edge : 134, 36
+Added Edge : 134, 60
+Added Node : 135, type : majority
+Added Edge : 135, 55
+Added Edge : 135, 2
+Added Node : 136, type : majority
+Added Edge : 136, 8
+Added Edge : 136, 1
+Added Node : 137, type : minority
+Added Edge : 137, 34
+Added Edge : 137, 76
+Added Node : 138, type : minority
+Added Edge : 138, 76
+Added Edge : 138, 72
+Added Node : 139, type : majority
+Added Edge : 139, 116
+Added Edge : 139, 1
+Added Node : 140, type : majority
+Added Edge : 140, 5
+Added Edge : 140, 42
+Added Node : 141, type : minority
+Added Edge : 141, 57
+Added Edge : 141, 17
+Added Node : 142, type : majority
+Added Edge : 142, 20
+Added Edge : 142, 60
+Added Node : 143, type : minority
+Added Edge : 143, 141
+Added Edge : 143, 67
+Added Node : 144, type : majority
+Added Edge : 144, 44
+Added Edge : 144, 95
+Added Node : 145, type : majority
+Added Edge : 145, 1
+Added Edge : 145, 73
+Added Node : 146, type : minority
+Added Edge : 146, 7
+Added Edge : 146, 10
+Added Node : 147, type : minority
+Added Edge : 147, 141
+Added Edge : 147, 2
+Added Node : 148, type : majority
+Added Edge : 148, 142
+Added Edge : 148, 11
+Added Node : 149, type : majority
+Added Edge : 149, 11
+Added Edge : 149, 130
+Added Node : 150, type : majority
+Added Edge : 150, 24
+Added Edge : 150, 1
+Added Node : 151, type : majority
+Added Edge : 151, 105
+Added Edge : 151, 121
+Added Node : 152, type : minority
+Added Edge : 152, 17
+Added Edge : 152, 5
+Added Node : 153, type : minority
+Added Edge : 153, 26
+Added Edge : 153, 149
+Added Node : 154, type : majority
+Added Edge : 154, 104
+Added Edge : 154, 2
+Added Node : 155, type : minority
+Added Edge : 155, 83
+Added Edge : 155, 14
+Added Node : 156, type : minority
+Added Edge : 156, 17
+Added Edge : 156, 84
+Added Node : 157, type : minority
+Added Edge : 157, 34
+Added Edge : 157, 17
+Added Node : 158, type : minority
+Added Edge : 158, 80
+Added Edge : 158, 19
+Added Node : 159, type : majority
+Added Edge : 159, 75
+Added Edge : 159, 2
+Added Node : 160, type : majority
+Added Edge : 160, 104
+Added Edge : 160, 2
+Added Node : 161, type : majority
+Added Edge : 161, 66
+Added Edge : 161, 8
+Added Node : 162, type : majority
+Added Edge : 162, 32
+Added Edge : 162, 55
+Added Node : 163, type : minority
+Added Edge : 163, 22
+Added Edge : 163, 4
+Added Node : 164, type : majority
+Added Edge : 164, 7
+Added Edge : 164, 5
+Added Node : 165, type : minority
+Added Edge : 165, 112
+Added Edge : 165, 108
+Added Node : 166, type : minority
+Added Edge : 166, 57
+Added Edge : 166, 163
+Added Node : 167, type : minority
+Added Edge : 167, 9
+Added Edge : 167, 73
+Added Node : 168, type : minority
+Added Edge : 168, 7
+Added Edge : 168, 38
+Added Node : 169, type : majority
+Added Edge : 169, 8
+Added Edge : 169, 36
+Added Node : 170, type : minority
+Added Edge : 170, 10
+Added Edge : 170, 153
+Added Node : 171, type : majority
+Added Edge : 171, 40
+Added Edge : 171, 21
+Added Node : 172, type : minority
+Added Edge : 172, 111
+Added Edge : 172, 0
+Added Node : 173, type : minority
+Added Edge : 173, 106
+Added Edge : 173, 27
+Added Node : 174, type : minority
+Added Edge : 174, 52
+Added Edge : 174, 9
+Added Node : 175, type : majority
+Added Edge : 175, 78
+Added Edge : 175, 9
+Added Node : 176, type : minority
+Added Edge : 176, 172
+Added Edge : 176, 4
+Added Node : 177, type : majority
+Added Edge : 177, 5
+Added Edge : 177, 42
+Added Node : 178, type : majority
+Added Edge : 178, 106
+Added Edge : 178, 177
+Added Node : 179, type : minority
+Added Edge : 179, 1
+Added Edge : 179, 143
+Added Node : 180, type : minority
+Added Edge : 180, 1
+Added Edge : 180, 34
+Added Node : 181, type : minority
+Added Edge : 181, 54
+Added Edge : 181, 106
+Added Node : 182, type : minority
+Added Edge : 182, 53
+Added Edge : 182, 20
+Added Node : 183, type : minority
+Added Edge : 183, 7
+Added Edge : 183, 16
+Added Node : 184, type : majority
+Added Edge : 184, 97
+Added Edge : 184, 113
+Added Node : 185, type : minority
+Added Edge : 185, 127
+Added Edge : 185, 64
+Added Node : 186, type : minority
+Added Edge : 186, 34
+Added Edge : 186, 24
+Added Node : 187, type : minority
+Added Edge : 187, 14
+Added Edge : 187, 165
+Added Node : 188, type : majority
+Added Edge : 188, 106
+Added Edge : 188, 17
+Added Node : 189, type : majority
+Added Edge : 189, 24
+Added Edge : 189, 18
+Added Node : 190, type : majority
+Added Edge : 190, 181
+Added Edge : 190, 5
+Added Node : 191, type : majority
+Added Edge : 191, 160
+Added Edge : 191, 24
+Added Node : 192, type : majority
+Added Edge : 192, 1
+Added Edge : 192, 145
+Added Node : 193, type : minority
+Added Edge : 193, 172
+Added Edge : 193, 45
+Added Node : 194, type : minority
+Added Edge : 194, 42
+Added Edge : 194, 31
+Added Node : 195, type : minority
+Added Edge : 195, 172
+Added Edge : 195, 9
+Added Node : 196, type : minority
+Added Edge : 196, 168
+Added Edge : 196, 45
+Added Node : 197, type : majority
+Added Edge : 197, 45
+Added Edge : 197, 78
+Added Node : 198, type : majority
+Added Edge : 198, 149
+Added Edge : 198, 55
+Added Node : 199, type : minority
+Added Edge : 199, 7
+Added Edge : 199, 107
+Added Node : 200, type : majority
+Added Edge : 200, 107
+Added Edge : 200, 27
+Added Node : 201, type : majority
+Added Edge : 201, 105
+Added Edge : 201, 1
+Added Node : 202, type : minority
+Added Edge : 202, 54
+Added Edge : 202, 58
+Added Node : 203, type : majority
+Added Edge : 203, 94
+Added Edge : 203, 11
+Added Node : 204, type : minority
+Added Edge : 204, 158
+Added Edge : 204, 39
+Added Node : 205, type : majority
+Added Edge : 205, 1
+Added Edge : 205, 164
+Added Node : 206, type : majority
+Added Edge : 206, 5
+Added Edge : 206, 106
+Added Node : 207, type : majority
+Added Edge : 207, 177
+Added Edge : 207, 27
+Added Node : 208, type : minority
+Added Edge : 208, 181
+Added Edge : 208, 9
+Added Node : 209, type : minority
+Added Edge : 209, 81
+Added Edge : 209, 4
+Added Node : 210, type : majority
+Added Edge : 210, 26
+Added Edge : 210, 3
+Added Node : 211, type : majority
+Added Edge : 211, 1
+Added Edge : 211, 9
+Added Node : 212, type : minority
+Added Edge : 212, 163
+Added Edge : 212, 65
+Added Node : 213, type : minority
+Added Edge : 213, 152
+Added Edge : 213, 163
+Added Node : 214, type : minority
+Added Edge : 214, 45
+Added Edge : 214, 10
+Added Node : 215, type : majority
+Added Edge : 215, 117
+Added Edge : 215, 1
+Added Node : 216, type : minority
+Added Edge : 216, 4
+Added Edge : 216, 22
+Added Node : 217, type : minority
+Added Edge : 217, 172
+Added Edge : 217, 26
+Added Node : 218, type : minority
+Added Edge : 218, 90
+Added Edge : 218, 84
+Added Node : 219, type : majority
+Added Edge : 219, 54
+Added Edge : 219, 55
+Added Node : 220, type : minority
+Added Edge : 220, 103
+Added Edge : 220, 181
+Added Node : 221, type : minority
+Added Edge : 221, 35
+Added Edge : 221, 182
+Added Node : 222, type : majority
+Added Edge : 222, 92
+Added Edge : 222, 27
+Added Node : 223, type : minority
+Added Edge : 223, 83
+Added Edge : 223, 38
+Added Node : 224, type : majority
+Added Edge : 224, 138
+Added Edge : 224, 21
+Added Node : 225, type : majority
+Added Edge : 225, 16
+Added Edge : 225, 21
+Added Node : 226, type : majority
+Added Edge : 226, 36
+Added Edge : 226, 5
+Added Node : 227, type : majority
+Added Edge : 227, 173
+Added Edge : 227, 78
+Added Node : 228, type : majority
+Added Edge : 228, 73
+Added Edge : 228, 5
+Added Node : 229, type : minority
+Added Edge : 229, 57
+Added Edge : 229, 10
+Added Node : 230, type : minority
+Added Edge : 230, 20
+Added Edge : 230, 16
+Added Node : 231, type : minority
+Added Edge : 231, 138
+Added Edge : 231, 24
+Added Node : 232, type : majority
+Added Edge : 232, 73
+Added Edge : 232, 46
+Added Node : 233, type : majority
+Added Edge : 233, 6
+Added Edge : 233, 1
+Added Node : 234, type : majority
+Added Edge : 234, 1
+Added Edge : 234, 210
+Added Node : 235, type : majority
+Added Edge : 235, 189
+Added Edge : 235, 73
+Added Node : 236, type : majority
+Added Edge : 236, 2
+Added Edge : 236, 77
+Added Node : 237, type : majority
+Added Edge : 237, 114
+Added Edge : 237, 134
+Added Node : 238, type : minority
+Added Edge : 238, 32
+Added Edge : 238, 202
+Added Node : 239, type : majority
+Added Edge : 239, 86
+Added Edge : 239, 109
+Added Node : 240, type : minority
+Added Edge : 240, 10
+Added Edge : 240, 37
+Added Node : 241, type : majority
+Added Edge : 241, 50
+Added Edge : 241, 6
+Added Node : 242, type : minority
+Added Edge : 242, 53
+Added Edge : 242, 103
+Added Node : 243, type : majority
+Added Edge : 243, 36
+Added Edge : 243, 124
+Added Node : 244, type : minority
+Added Edge : 244, 212
+Added Edge : 244, 4
+Added Node : 245, type : minority
+Added Edge : 245, 209
+Added Edge : 245, 19
+Added Node : 246, type : majority
+Added Edge : 246, 42
+Added Edge : 246, 27
+Added Node : 247, type : minority
+Added Edge : 247, 166
+Added Edge : 247, 141
+Added Node : 248, type : majority
+Added Edge : 248, 9
+Added Edge : 248, 27
+Added Node : 249, type : minority
+Added Edge : 249, 96
+Added Edge : 249, 7
+Added Node : 250, type : majority
+Added Edge : 250, 226
+Added Edge : 250, 36
+Added Node : 251, type : minority
+Added Edge : 251, 181
+Added Edge : 251, 32
+Added Node : 252, type : majority
+Added Edge : 252, 5
+Added Edge : 252, 241
+Added Node : 253, type : majority
+Added Edge : 253, 6
+Added Edge : 253, 234
+Added Node : 254, type : minority
+Added Edge : 254, 225
+Added Edge : 254, 46
+Added Node : 255, type : majority
+Added Edge : 255, 116
+Added Edge : 255, 44
+Added Node : 256, type : majority
+Added Edge : 256, 198
+Added Edge : 256, 16
+Added Node : 257, type : majority
+Added Edge : 257, 227
+Added Edge : 257, 198
+Added Node : 258, type : minority
+Added Edge : 258, 181
+Added Edge : 258, 6
+Added Node : 259, type : minority
+Added Edge : 259, 7
+Added Edge : 259, 62
+Added Node : 260, type : majority
+Added Edge : 260, 190
+Added Edge : 260, 88
+Added Node : 261, type : majority
+Added Edge : 261, 35
+Added Edge : 261, 130
+Added Node : 262, type : minority
+Added Edge : 262, 67
+Added Edge : 262, 242
+Added Node : 263, type : minority
+Added Edge : 263, 9
+Added Edge : 263, 152
+Added Node : 264, type : majority
+Added Edge : 264, 119
+Added Edge : 264, 32
+Added Node : 265, type : majority
+Added Edge : 265, 126
+Added Edge : 265, 106
+Added Node : 266, type : majority
+Added Edge : 266, 218
+Added Edge : 266, 27
+Added Node : 267, type : majority
+Added Edge : 267, 15
+Added Edge : 267, 72
+Added Node : 268, type : minority
+Added Edge : 268, 181
+Added Edge : 268, 165
+Added Node : 269, type : minority
+Added Edge : 269, 185
+Added Edge : 269, 170
+Added Node : 270, type : majority
+Added Edge : 270, 192
+Added Edge : 270, 89
+Added Node : 271, type : minority
+Added Edge : 271, 7
+Added Edge : 271, 43
+Added Node : 272, type : majority
+Added Edge : 272, 15
+Added Edge : 272, 104
+Added Node : 273, type : majority
+Added Edge : 273, 61
+Added Edge : 273, 167
+Added Node : 274, type : minority
+Added Edge : 274, 34
+Added Edge : 274, 4
+Added Node : 275, type : majority
+Added Edge : 275, 73
+Added Edge : 275, 26
+Added Node : 276, type : minority
+Added Edge : 276, 196
+Added Edge : 276, 181
+Added Node : 277, type : minority
+Added Edge : 277, 97
+Added Edge : 277, 30
+Added Node : 278, type : minority
+Added Edge : 278, 185
+Added Edge : 278, 7
+Added Node : 279, type : majority
+Added Edge : 279, 243
+Added Edge : 279, 20
+Added Node : 280, type : majority
+Added Edge : 280, 104
+Added Edge : 280, 6
+Added Node : 281, type : majority
+Added Edge : 281, 96
+Added Edge : 281, 97
+Added Node : 282, type : majority
+Added Edge : 282, 31
+Added Edge : 282, 265
+Added Node : 283, type : minority
+Added Edge : 283, 0
+Added Edge : 283, 243
+Added Node : 284, type : minority
+Added Edge : 284, 42
+Added Edge : 284, 196
+Added Node : 285, type : minority
+Added Edge : 285, 10
+Added Edge : 285, 84
+Added Node : 286, type : majority
+Added Edge : 286, 154
+Added Edge : 286, 87
+Added Node : 287, type : majority
+Added Edge : 287, 61
+Added Edge : 287, 24
+Added Node : 288, type : majority
+Added Edge : 288, 1
+Added Edge : 288, 260
+Added Node : 289, type : majority
+Added Edge : 289, 44
+Added Edge : 289, 11
+Added Node : 290, type : majority
+Added Edge : 290, 115
+Added Edge : 290, 36
+Added Node : 291, type : majority
+Added Edge : 291, 1
+Added Edge : 291, 54
+Added Node : 292, type : majority
+Added Edge : 292, 55
+Added Edge : 292, 87
+Added Node : 293, type : majority
+Added Edge : 293, 189
+Added Edge : 293, 1
+Added Node : 294, type : minority
+Added Edge : 294, 141
+Added Edge : 294, 28
+Added Node : 295, type : minority
+Added Edge : 295, 28
+Added Edge : 295, 222
+Added Node : 296, type : minority
+Added Edge : 296, 10
+Added Edge : 296, 34
+Added Node : 297, type : majority
+Added Edge : 297, 11
+Added Edge : 297, 292
+Added Node : 298, type : minority
+Added Edge : 298, 263
+Added Edge : 298, 17
+Added Node : 299, type : majority
+Added Edge : 299, 272
+Added Edge : 299, 11
+Added Node : 300, type : minority
+Added Edge : 300, 20
+Added Edge : 300, 7
+Added Node : 301, type : minority
+Added Edge : 301, 199
+Added Edge : 301, 92
+Added Node : 302, type : majority
+Added Edge : 302, 237
+Added Edge : 302, 32
+Added Node : 303, type : majority
+Added Edge : 303, 119
+Added Edge : 303, 2
+Added Node : 304, type : majority
+Added Edge : 304, 1
+Added Edge : 304, 173
+Added Node : 305, type : minority
+Added Edge : 305, 49
+Added Edge : 305, 196
+Added Node : 306, type : majority
+Added Edge : 306, 5
+Added Edge : 306, 8
+Added Node : 307, type : minority
+Added Edge : 307, 218
+Added Edge : 307, 299
+Added Node : 308, type : majority
+Added Edge : 308, 8
+Added Edge : 308, 134
+Added Node : 309, type : minority
+Added Edge : 309, 4
+Added Edge : 309, 173
+Added Node : 310, type : majority
+Added Edge : 310, 16
+Added Edge : 310, 95
+Added Node : 311, type : minority
+Added Edge : 311, 9
+Added Edge : 311, 10
+Added Node : 312, type : minority
+Added Edge : 312, 130
+Added Edge : 312, 38
+Added Node : 313, type : minority
+Added Edge : 313, 7
+Added Edge : 313, 78
+Added Node : 314, type : majority
+Added Edge : 314, 153
+Added Edge : 314, 62
+Added Node : 315, type : minority
+Added Edge : 315, 0
+Added Edge : 315, 269
+Added Node : 316, type : minority
+Added Edge : 316, 103
+Added Edge : 316, 166
+Added Node : 317, type : minority
+Added Edge : 317, 8
+Added Edge : 317, 103
+Added Node : 318, type : majority
+Added Edge : 318, 6
+Added Edge : 318, 75
+Added Node : 319, type : majority
+Added Edge : 319, 21
+Added Edge : 319, 210
+Added Node : 320, type : minority
+Added Edge : 320, 316
+Added Edge : 320, 2
+Added Node : 321, type : majority
+Added Edge : 321, 23
+Added Edge : 321, 138
+Added Node : 322, type : majority
+Added Edge : 322, 66
+Added Edge : 322, 318
+Added Node : 323, type : minority
+Added Edge : 323, 0
+Added Edge : 323, 10
+Added Node : 324, type : majority
+Added Edge : 324, 58
+Added Edge : 324, 116
+Added Node : 325, type : majority
+Added Edge : 325, 2
+Added Edge : 325, 35
+Added Node : 326, type : minority
+Added Edge : 326, 5
+Added Edge : 326, 196
+Added Node : 327, type : minority
+Added Edge : 327, 1
+Added Edge : 327, 226
+Added Node : 328, type : minority
+Added Edge : 328, 307
+Added Edge : 328, 167
+Added Node : 329, type : majority
+Added Edge : 329, 78
+Added Edge : 329, 75
+Added Node : 330, type : minority
+Added Edge : 330, 116
+Added Edge : 330, 84
+Added Node : 331, type : minority
+Added Edge : 331, 270
+Added Edge : 331, 7
+Added Node : 332, type : minority
+Added Edge : 332, 40
+Added Edge : 332, 295
+Added Node : 333, type : minority
+Added Edge : 333, 51
+Added Edge : 333, 81
+Added Node : 334, type : minority
+Added Edge : 334, 91
+Added Edge : 334, 276
+Added Node : 335, type : majority
+Added Edge : 335, 257
+Added Edge : 335, 164
+Added Node : 336, type : minority
+Added Edge : 336, 1
+Added Edge : 336, 181
+Added Node : 337, type : minority
+Added Edge : 337, 213
+Added Edge : 337, 96
+Added Node : 338, type : minority
+Added Edge : 338, 42
+Added Edge : 338, 36
+Added Node : 339, type : minority
+Added Edge : 339, 17
+Added Edge : 339, 114
+Added Node : 340, type : minority
+Added Edge : 340, 11
+Added Edge : 340, 7
+Added Node : 341, type : majority
+Added Edge : 341, 2
+Added Edge : 341, 78
+Added Node : 342, type : minority
+Added Edge : 342, 0
+Added Edge : 342, 22
+Added Node : 343, type : majority
+Added Edge : 343, 0
+Added Edge : 343, 36
+Added Node : 344, type : minority
+Added Edge : 344, 202
+Added Edge : 344, 7
+Added Node : 345, type : minority
+Added Edge : 345, 231
+Added Edge : 345, 10
+Added Node : 346, type : minority
+Added Edge : 346, 16
+Added Edge : 346, 269
+Added Node : 347, type : minority
+Added Edge : 347, 42
+Added Edge : 347, 4
+Added Node : 348, type : minority
+Added Edge : 348, 78
+Added Edge : 348, 5
+Added Node : 349, type : minority
+Added Edge : 349, 132
+Added Edge : 349, 65
+Added Node : 350, type : minority
+Added Edge : 350, 16
+Added Edge : 350, 72
+Added Node : 351, type : majority
+Added Edge : 351, 350
+Added Edge : 351, 141
+Added Node : 352, type : majority
+Added Edge : 352, 1
+Added Edge : 352, 145
+Added Node : 353, type : minority
+Added Edge : 353, 66
+Added Edge : 353, 158
+Added Node : 354, type : minority
+Added Edge : 354, 5
+Added Edge : 354, 79
+Added Node : 355, type : minority
+Added Edge : 355, 14
+Added Edge : 355, 327
+Added Node : 356, type : minority
+Added Edge : 356, 88
+Added Edge : 356, 136
+Added Node : 357, type : minority
+Added Edge : 357, 262
+Added Edge : 357, 31
+Added Node : 358, type : majority
+Added Edge : 358, 197
+Added Edge : 358, 136
+Added Node : 359, type : majority
+Added Edge : 359, 2
+Added Edge : 359, 106
+Added Node : 360, type : minority
+Added Edge : 360, 53
+Added Edge : 360, 157
+Added Node : 361, type : minority
+Added Edge : 361, 84
+Added Edge : 361, 250
+Added Node : 362, type : minority
+Added Edge : 362, 333
+Added Edge : 362, 22
+Added Node : 363, type : minority
+Added Edge : 363, 30
+Added Edge : 363, 76
+Added Node : 364, type : minority
+Added Edge : 364, 332
+Added Edge : 364, 0
+Added Node : 365, type : majority
+Added Edge : 365, 8
+Added Edge : 365, 301
+Added Node : 366, type : majority
+Added Edge : 366, 303
+Added Edge : 366, 55
+Added Node : 367, type : minority
+Added Edge : 367, 49
+Added Edge : 367, 83
+Added Node : 368, type : majority
+Added Edge : 368, 128
+Added Edge : 368, 150
+Added Node : 369, type : majority
+Added Edge : 369, 344
+Added Edge : 369, 132
+Added Node : 370, type : minority
+Added Edge : 370, 49
+Added Edge : 370, 9
+Added Node : 371, type : majority
+Added Edge : 371, 114
+Added Edge : 371, 272
+Added Node : 372, type : majority
+Added Edge : 372, 27
+Added Edge : 372, 318
+Added Node : 373, type : majority
+Added Edge : 373, 6
+Added Edge : 373, 5
+Added Node : 374, type : majority
+Added Edge : 374, 276
+Added Edge : 374, 100
+Added Node : 375, type : minority
+Added Edge : 375, 16
+Added Edge : 375, 66
+Added Node : 376, type : majority
+Added Edge : 376, 161
+Added Edge : 376, 97
+Added Node : 377, type : majority
+Added Edge : 377, 34
+Added Edge : 377, 292
+Added Node : 378, type : majority
+Added Edge : 378, 227
+Added Edge : 378, 44
+Added Node : 379, type : minority
+Added Edge : 379, 355
+Added Edge : 379, 38
+Added Node : 380, type : majority
+Added Edge : 380, 206
+Added Edge : 380, 8
+Added Node : 381, type : majority
+Added Edge : 381, 286
+Added Edge : 381, 26
+Added Node : 382, type : majority
+Added Edge : 382, 6
+Added Edge : 382, 60
+Added Node : 383, type : minority
+Added Edge : 383, 365
+Added Edge : 383, 7
+Added Node : 384, type : majority
+Added Edge : 384, 279
+Added Edge : 384, 41
+Added Node : 385, type : majority
+Added Edge : 385, 31
+Added Edge : 385, 165
+Added Node : 386, type : majority
+Added Edge : 386, 191
+Added Edge : 386, 135
+Added Node : 387, type : majority
+Added Edge : 387, 302
+Added Edge : 387, 2
+Added Node : 388, type : minority
+Added Edge : 388, 176
+Added Edge : 388, 311
+Added Node : 389, type : majority
+Added Edge : 389, 256
+Added Edge : 389, 106
+Added Node : 390, type : minority
+Added Edge : 390, 194
+Added Edge : 390, 38
+Added Node : 391, type : minority
+Added Edge : 391, 114
+Added Edge : 391, 166
+Added Node : 392, type : majority
+Added Edge : 392, 248
+Added Edge : 392, 203
+Added Node : 393, type : majority
+Added Edge : 393, 17
+Added Edge : 393, 2
+Added Node : 394, type : majority
+Added Edge : 394, 280
+Added Edge : 394, 95
+Added Node : 395, type : majority
+Added Edge : 395, 286
+Added Edge : 395, 210
+Added Node : 396, type : minority
+Added Edge : 396, 18
+Added Edge : 396, 116
+Added Node : 397, type : minority
+Added Edge : 397, 2
+Added Edge : 397, 127
+Added Node : 398, type : minority
+Added Edge : 398, 278
+Added Edge : 398, 10
+Added Node : 399, type : minority
+Added Edge : 399, 195
+Added Edge : 399, 17
+Added Node : 400, type : majority
+Added Edge : 400, 24
+Added Edge : 400, 248
+Added Node : 401, type : majority
+Added Edge : 401, 143
+Added Edge : 401, 184
+Added Node : 402, type : minority
+Added Edge : 402, 3
+Added Edge : 402, 4
+Added Node : 403, type : minority
+Added Edge : 403, 1
+Added Edge : 403, 165
+Added Node : 404, type : minority
+Added Edge : 404, 92
+Added Edge : 404, 140
+Added Node : 405, type : majority
+Added Edge : 405, 2
+Added Edge : 405, 5
+Added Node : 406, type : majority
+Added Edge : 406, 36
+Added Edge : 406, 21
+Added Node : 407, type : majority
+Added Edge : 407, 36
+Added Edge : 407, 261
+Added Node : 408, type : majority
+Added Edge : 408, 248
+Added Edge : 408, 24
+Added Node : 409, type : minority
+Added Edge : 409, 7
+Added Edge : 409, 17
+Added Node : 410, type : majority
+Added Edge : 410, 3
+Added Edge : 410, 233
+Added Node : 411, type : minority
+Added Edge : 411, 143
+Added Edge : 411, 34
+Added Node : 412, type : majority
+Added Edge : 412, 6
+Added Edge : 412, 136
+Added Node : 413, type : minority
+Added Edge : 413, 271
+Added Edge : 413, 92
+Added Node : 414, type : minority
+Added Edge : 414, 44
+Added Edge : 414, 304
+Added Node : 415, type : majority
+Added Edge : 415, 104
+Added Edge : 415, 45
+Added Node : 416, type : minority
+Added Edge : 416, 66
+Added Edge : 416, 42
+Added Node : 417, type : majority
+Added Edge : 417, 2
+Added Edge : 417, 73
+Added Node : 418, type : majority
+Added Edge : 418, 392
+Added Edge : 418, 1
+Added Node : 419, type : majority
+Added Edge : 419, 122
+Added Edge : 419, 6
+Added Node : 420, type : majority
+Added Edge : 420, 318
+Added Edge : 420, 126
+Added Node : 421, type : minority
+Added Edge : 421, 11
+Added Edge : 421, 403
+Added Node : 422, type : majority
+Added Edge : 422, 132
+Added Edge : 422, 119
+Added Node : 423, type : majority
+Added Edge : 423, 195
+Added Edge : 423, 380
+Added Node : 424, type : minority
+Added Edge : 424, 16
+Added Edge : 424, 20
+Added Node : 425, type : majority
+Added Edge : 425, 254
+Added Edge : 425, 15
+Added Node : 426, type : majority
+Added Edge : 426, 55
+Added Edge : 426, 120
+Added Node : 427, type : majority
+Added Edge : 427, 43
+Added Edge : 427, 34
+Added Node : 428, type : majority
+Added Edge : 428, 78
+Added Edge : 428, 372
+Added Node : 429, type : minority
+Added Edge : 429, 2
+Added Edge : 429, 34
+Added Node : 430, type : minority
+Added Edge : 430, 10
+Added Edge : 430, 20
+Added Node : 431, type : majority
+Added Edge : 431, 144
+Added Edge : 431, 2
+Added Node : 432, type : minority
+Added Edge : 432, 27
+Added Edge : 432, 332
+Added Node : 433, type : majority
+Added Edge : 433, 100
+Added Edge : 433, 26
+Added Node : 434, type : majority
+Added Edge : 434, 69
+Added Edge : 434, 321
+Added Node : 435, type : minority
+Added Edge : 435, 4
+Added Edge : 435, 231
+Added Node : 436, type : majority
+Added Edge : 436, 8
+Added Edge : 436, 78
+Added Node : 437, type : minority
+Added Edge : 437, 226
+Added Edge : 437, 0
+Added Node : 438, type : majority
+Added Edge : 438, 222
+Added Edge : 438, 23
+Added Node : 439, type : majority
+Added Edge : 439, 6
+Added Edge : 439, 415
+Added Node : 440, type : majority
+Added Edge : 440, 24
+Added Edge : 440, 10
+Added Node : 441, type : majority
+Added Edge : 441, 6
+Added Edge : 441, 366
+Added Node : 442, type : majority
+Added Edge : 442, 70
+Added Edge : 442, 73
+Added Node : 443, type : majority
+Added Edge : 443, 78
+Added Edge : 443, 219
+Added Node : 444, type : majority
+Added Edge : 444, 230
+Added Edge : 444, 272
+Added Node : 445, type : minority
+Added Edge : 445, 172
+Added Edge : 445, 326
+Added Node : 446, type : minority
+Added Edge : 446, 17
+Added Edge : 446, 305
+Added Node : 447, type : majority
+Added Edge : 447, 312
+Added Edge : 447, 8
+Added Node : 448, type : majority
+Added Edge : 448, 121
+Added Edge : 448, 104
+Added Node : 449, type : minority
+Added Edge : 449, 22
+Added Edge : 449, 406
+Added Node : 450, type : majority
+Added Edge : 450, 66
+Added Edge : 450, 327
+Added Node : 451, type : majority
+Added Edge : 451, 87
+Added Edge : 451, 250
+Added Node : 452, type : majority
+Added Edge : 452, 45
+Added Edge : 452, 11
+Added Node : 453, type : minority
+Added Edge : 453, 10
+Added Edge : 453, 65
+Added Node : 454, type : minority
+Added Edge : 454, 7
+Added Edge : 454, 9
+Added Node : 455, type : majority
+Added Edge : 455, 2
+Added Edge : 455, 267
+Added Node : 456, type : majority
+Added Edge : 456, 223
+Added Edge : 456, 45
+Added Node : 457, type : majority
+Added Edge : 457, 78
+Added Edge : 457, 248
+Added Node : 458, type : majority
+Added Edge : 458, 397
+Added Edge : 458, 433
+Added Node : 459, type : minority
+Added Edge : 459, 414
+Added Edge : 459, 254
+Added Node : 460, type : majority
+Added Edge : 460, 2
+Added Edge : 460, 6
+Added Node : 461, type : majority
+Added Edge : 461, 2
+Added Edge : 461, 8
+Added Node : 462, type : majority
+Added Edge : 462, 218
+Added Edge : 462, 43
+Added Node : 463, type : minority
+Added Edge : 463, 167
+Added Edge : 463, 34
+Added Node : 464, type : minority
+Added Edge : 464, 11
+Added Edge : 464, 305
+Added Node : 465, type : majority
+Added Edge : 465, 92
+Added Edge : 465, 132
+Added Node : 466, type : minority
+Added Edge : 466, 34
+Added Edge : 466, 348
+Added Node : 467, type : majority
+Added Edge : 467, 172
+Added Edge : 467, 124
+Added Node : 468, type : majority
+Added Edge : 468, 32
+Added Edge : 468, 239
+Added Node : 469, type : minority
+Added Edge : 469, 381
+Added Edge : 469, 198
+Added Node : 470, type : minority
+Added Edge : 470, 419
+Added Edge : 470, 9
+Added Node : 471, type : minority
+Added Edge : 471, 451
+Added Edge : 471, 119
+Added Node : 472, type : majority
+Added Edge : 472, 100
+Added Edge : 472, 26
+Added Node : 473, type : minority
+Added Edge : 473, 321
+Added Edge : 473, 231
+Added Node : 474, type : minority
+Added Edge : 474, 218
+Added Edge : 474, 340
+Added Node : 475, type : majority
+Added Edge : 475, 418
+Added Edge : 475, 321
+Added Node : 476, type : majority
+Added Edge : 476, 368
+Added Edge : 476, 292
+Added Node : 477, type : majority
+Added Edge : 477, 17
+Added Edge : 477, 400
+Added Node : 478, type : majority
+Added Edge : 478, 104
+Added Edge : 478, 142
+Added Node : 479, type : majority
+Added Edge : 479, 274
+Added Edge : 479, 113
+Added Node : 480, type : minority
+Added Edge : 480, 303
+Added Edge : 480, 34
+Added Node : 481, type : majority
+Added Edge : 481, 24
+Added Edge : 481, 73
+Added Node : 482, type : majority
+Added Edge : 482, 368
+Added Edge : 482, 278
+Added Node : 483, type : minority
+Added Edge : 483, 305
+Added Edge : 483, 226
+Added Node : 484, type : minority
+Added Edge : 484, 383
+Added Edge : 484, 7
+Added Node : 485, type : minority
+Added Edge : 485, 7
+Added Edge : 485, 19
+Added Node : 486, type : minority
+Added Edge : 486, 32
+Added Edge : 486, 276
+Added Node : 487, type : minority
+Added Edge : 487, 290
+Added Edge : 487, 163
+Added Node : 488, type : minority
+Added Edge : 488, 219
+Added Edge : 488, 85
+Added Node : 489, type : minority
+Added Edge : 489, 327
+Added Edge : 489, 52
+Added Node : 490, type : majority
+Added Edge : 490, 142
+Added Edge : 490, 270
+Added Node : 491, type : minority
+Added Edge : 491, 40
+Added Edge : 491, 72
+Added Node : 492, type : minority
+Added Edge : 492, 167
+Added Edge : 492, 36
+Added Node : 493, type : majority
+Added Edge : 493, 405
+Added Edge : 493, 24
+Added Node : 494, type : minority
+Added Edge : 494, 39
+Added Edge : 494, 195
+Added Node : 495, type : minority
+Added Edge : 495, 25
+Added Edge : 495, 316
+Added Node : 496, type : majority
+Added Edge : 496, 45
+Added Edge : 496, 417
+Added Node : 497, type : minority
+Added Edge : 497, 202
+Added Edge : 497, 397
+Added Node : 498, type : minority
+Added Edge : 498, 299
+Added Edge : 498, 53
+Added Node : 499, type : majority
+Added Edge : 499, 23
+Added Edge : 499, 414
+Added Node : 500, type : majority
+Added Edge : 500, 89
+Added Edge : 500, 226
+Added Node : 501, type : minority
+Added Edge : 501, 269
+Added Edge : 501, 218
+Added Node : 502, type : majority
+Added Edge : 502, 172
+Added Edge : 502, 334
+Added Node : 503, type : majority
+Added Edge : 503, 183
+Added Edge : 503, 142
+Added Node : 504, type : majority
+Added Edge : 504, 35
+Added Edge : 504, 236
+Added Node : 505, type : minority
+Added Edge : 505, 196
+Added Edge : 505, 141
+Added Node : 506, type : minority
+Added Edge : 506, 10
+Added Edge : 506, 276
+Added Node : 507, type : minority
+Added Edge : 507, 263
+Added Edge : 507, 166
+Added Node : 508, type : majority
+Added Edge : 508, 311
+Added Edge : 508, 169
+Added Node : 509, type : majority
+Added Edge : 509, 482
+Added Edge : 509, 433
+Added Node : 510, type : minority
+Added Edge : 510, 10
+Added Edge : 510, 7
+Added Node : 511, type : minority
+Added Edge : 511, 7
+Added Edge : 511, 96
+Added Node : 512, type : minority
+Added Edge : 512, 13
+Added Edge : 512, 20
+Added Node : 513, type : majority
+Added Edge : 513, 80
+Added Edge : 513, 177
+Added Node : 514, type : minority
+Added Edge : 514, 309
+Added Edge : 514, 103
+Added Node : 515, type : minority
+Added Edge : 515, 17
+Added Edge : 515, 231
+Added Node : 516, type : majority
+Added Edge : 516, 111
+Added Edge : 516, 255
+Added Node : 517, type : minority
+Added Edge : 517, 411
+Added Edge : 517, 293
+Added Node : 518, type : minority
+Added Edge : 518, 69
+Added Edge : 518, 421
+Added Node : 519, type : majority
+Added Edge : 519, 2
+Added Edge : 519, 150
+Added Node : 520, type : majority
+Added Edge : 520, 318
+Added Edge : 520, 5
+Added Node : 521, type : majority
+Added Edge : 521, 433
+Added Edge : 521, 509
+Added Node : 522, type : minority
+Added Edge : 522, 65
+Added Edge : 522, 454
+Added Node : 523, type : majority
+Added Edge : 523, 299
+Added Edge : 523, 8
+Added Node : 524, type : majority
+Added Edge : 524, 32
+Added Edge : 524, 21
+Added Node : 525, type : minority
+Added Edge : 525, 149
+Added Edge : 525, 176
+Added Node : 526, type : majority
+Added Edge : 526, 326
+Added Edge : 526, 40
+Added Node : 527, type : minority
+Added Edge : 527, 221
+Added Edge : 527, 365
+Added Node : 528, type : minority
+Added Edge : 528, 119
+Added Edge : 528, 274
+Added Node : 529, type : majority
+Added Edge : 529, 2
+Added Edge : 529, 27
+Added Node : 530, type : minority
+Added Edge : 530, 223
+Added Edge : 530, 217
+Added Node : 531, type : minority
+Added Edge : 531, 42
+Added Edge : 531, 259
+Added Node : 532, type : minority
+Added Edge : 532, 37
+Added Edge : 532, 52
+Added Node : 533, type : majority
+Added Edge : 533, 494
+Added Edge : 533, 21
+Added Node : 534, type : minority
+Added Edge : 534, 393
+Added Edge : 534, 65
+Added Node : 535, type : minority
+Added Edge : 535, 354
+Added Edge : 535, 49
+Added Node : 536, type : minority
+Added Edge : 536, 514
+Added Edge : 536, 18
+Added Node : 537, type : majority
+Added Edge : 537, 34
+Added Edge : 537, 4
+Added Node : 538, type : majority
+Added Edge : 538, 278
+Added Edge : 538, 5
+Added Node : 539, type : minority
+Added Edge : 539, 402
+Added Edge : 539, 152
+Added Node : 540, type : minority
+Added Edge : 540, 514
+Added Edge : 540, 21
+Added Node : 541, type : minority
+Added Edge : 541, 13
+Added Edge : 541, 49
+Added Node : 542, type : majority
+Added Edge : 542, 282
+Added Edge : 542, 132
+Added Node : 543, type : minority
+Added Edge : 543, 411
+Added Edge : 543, 486
+Added Node : 544, type : majority
+Added Edge : 544, 425
+Added Edge : 544, 130
+Added Node : 545, type : minority
+Added Edge : 545, 16
+Added Edge : 545, 51
+Added Node : 546, type : minority
+Added Edge : 546, 55
+Added Edge : 546, 6
+Added Node : 547, type : minority
+Added Edge : 547, 46
+Added Edge : 547, 155
+Added Node : 548, type : minority
+Added Edge : 548, 543
+Added Edge : 548, 1
+Added Node : 549, type : majority
+Added Edge : 549, 332
+Added Edge : 549, 487
+Added Node : 550, type : minority
+Added Edge : 550, 38
+Added Edge : 550, 7
+Added Node : 551, type : minority
+Added Edge : 551, 146
+Added Edge : 551, 370
+Added Node : 552, type : majority
+Added Edge : 552, 18
+Added Edge : 552, 67
+Added Node : 553, type : majority
+Added Edge : 553, 2
+Added Edge : 553, 260
+Added Node : 554, type : minority
+Added Edge : 554, 141
+Added Edge : 554, 432
+Added Node : 555, type : minority
+Added Edge : 555, 344
+Added Edge : 555, 38
+Added Node : 556, type : minority
+Added Edge : 556, 512
+Added Edge : 556, 334
+Added Node : 557, type : minority
+Added Edge : 557, 6
+Added Edge : 557, 2
+Added Node : 558, type : minority
+Added Edge : 558, 530
+Added Edge : 558, 172
+Added Node : 559, type : minority
+Added Edge : 559, 413
+Added Edge : 559, 7
+Added Node : 560, type : minority
+Added Edge : 560, 216
+Added Edge : 560, 356
+Added Node : 561, type : majority
+Added Edge : 561, 95
+Added Edge : 561, 1
+Added Node : 562, type : majority
+Added Edge : 562, 549
+Added Edge : 562, 45
+Added Node : 563, type : majority
+Added Edge : 563, 11
+Added Edge : 563, 236
+Added Node : 564, type : majority
+Added Edge : 564, 88
+Added Edge : 564, 2
+Added Node : 565, type : minority
+Added Edge : 565, 283
+Added Edge : 565, 7
+Added Node : 566, type : minority
+Added Edge : 566, 1
+Added Edge : 566, 138
+Added Node : 567, type : minority
+Added Edge : 567, 66
+Added Edge : 567, 72
+Added Node : 568, type : majority
+Added Edge : 568, 36
+Added Edge : 568, 2
+Added Node : 569, type : majority
+Added Edge : 569, 260
+Added Edge : 569, 290
+Added Node : 570, type : minority
+Added Edge : 570, 534
+Added Edge : 570, 86
+Added Node : 571, type : minority
+Added Edge : 571, 38
+Added Edge : 571, 10
+Added Node : 572, type : minority
+Added Edge : 572, 398
+Added Edge : 572, 241
+Added Node : 573, type : majority
+Added Edge : 573, 451
+Added Edge : 573, 133
+Added Node : 574, type : majority
+Added Edge : 574, 443
+Added Edge : 574, 286
+Added Node : 575, type : majority
+Added Edge : 575, 21
+Added Edge : 575, 236
+Added Node : 576, type : minority
+Added Edge : 576, 315
+Added Edge : 576, 18
+Added Node : 577, type : majority
+Added Edge : 577, 237
+Added Edge : 577, 280
+Added Node : 578, type : majority
+Added Edge : 578, 227
+Added Edge : 578, 2
+Added Node : 579, type : minority
+Added Edge : 579, 138
+Added Edge : 579, 54
+Added Node : 580, type : minority
+Added Edge : 580, 382
+Added Edge : 580, 518
+Added Node : 581, type : majority
+Added Edge : 581, 34
+Added Edge : 581, 49
+Added Node : 582, type : minority
+Added Edge : 582, 7
+Added Edge : 582, 454
+Added Node : 583, type : minority
+Added Edge : 583, 42
+Added Edge : 583, 187
+Added Node : 584, type : majority
+Added Edge : 584, 473
+Added Edge : 584, 100
+Added Node : 585, type : minority
+Added Edge : 585, 96
+Added Edge : 585, 315
+Added Node : 586, type : majority
+Added Edge : 586, 148
+Added Edge : 586, 132
+Added Node : 587, type : majority
+Added Edge : 587, 27
+Added Edge : 587, 511
+Added Node : 588, type : majority
+Added Edge : 588, 26
+Added Edge : 588, 479
+Added Node : 589, type : majority
+Added Edge : 589, 192
+Added Edge : 589, 27
+Added Node : 590, type : majority
+Added Edge : 590, 302
+Added Edge : 590, 361
+Added Node : 591, type : majority
+Added Edge : 591, 5
+Added Edge : 591, 178
+Added Node : 592, type : majority
+Added Edge : 592, 358
+Added Edge : 592, 161
+Added Node : 593, type : majority
+Added Edge : 593, 78
+Added Edge : 593, 24
+Added Node : 594, type : minority
+Added Edge : 594, 73
+Added Edge : 594, 540
+Added Node : 595, type : minority
+Added Edge : 595, 31
+Added Edge : 595, 110
+Added Node : 596, type : majority
+Added Edge : 596, 200
+Added Edge : 596, 3
+Added Node : 597, type : minority
+Added Edge : 597, 10
+Added Edge : 597, 340
+Added Node : 598, type : majority
+Added Edge : 598, 10
+Added Edge : 598, 8
+Added Node : 599, type : majority
+Added Edge : 599, 1
+Added Edge : 599, 105
+Added Node : 600, type : minority
+Added Edge : 600, 5
+Added Edge : 600, 37
+Added Node : 601, type : minority
+Added Edge : 601, 555
+Added Edge : 601, 82
+Added Node : 602, type : minority
+Added Edge : 602, 403
+Added Edge : 602, 28
+Added Node : 603, type : majority
+Added Edge : 603, 24
+Added Edge : 603, 270
+Added Node : 604, type : majority
+Added Edge : 604, 2
+Added Edge : 604, 592
+Added Node : 605, type : minority
+Added Edge : 605, 118
+Added Edge : 605, 31
+Added Node : 606, type : minority
+Added Edge : 606, 103
+Added Edge : 606, 16
+Added Node : 607, type : majority
+Added Edge : 607, 106
+Added Edge : 607, 369
+Added Node : 608, type : majority
+Added Edge : 608, 278
+Added Edge : 608, 424
+Added Node : 609, type : majority
+Added Edge : 609, 243
+Added Edge : 609, 178
+Added Node : 610, type : majority
+Added Edge : 610, 60
+Added Edge : 610, 366
+Added Node : 611, type : minority
+Added Edge : 611, 330
+Added Edge : 611, 17
+Added Node : 612, type : majority
+Added Edge : 612, 302
+Added Edge : 612, 8
+Added Node : 613, type : minority
+Added Edge : 613, 447
+Added Edge : 613, 37
+Added Node : 614, type : majority
+Added Edge : 614, 24
+Added Edge : 614, 599
+Added Node : 615, type : minority
+Added Edge : 615, 90
+Added Edge : 615, 7
+Added Node : 616, type : minority
+Added Edge : 616, 366
+Added Edge : 616, 422
+Added Node : 617, type : minority
+Added Edge : 617, 417
+Added Edge : 617, 172
+Added Node : 618, type : minority
+Added Edge : 618, 305
+Added Edge : 618, 212
+Added Node : 619, type : majority
+Added Edge : 619, 142
+Added Edge : 619, 45
+Added Node : 620, type : majority
+Added Edge : 620, 520
+Added Edge : 620, 5
+Added Node : 621, type : minority
+Added Edge : 621, 112
+Added Edge : 621, 616
+Added Node : 622, type : majority
+Added Edge : 622, 45
+Added Edge : 622, 612
+Added Node : 623, type : majority
+Added Edge : 623, 36
+Added Edge : 623, 303
+Added Node : 624, type : majority
+Added Edge : 624, 2
+Added Edge : 624, 35
+Added Node : 625, type : minority
+Added Edge : 625, 149
+Added Edge : 625, 163
+Added Node : 626, type : minority
+Added Edge : 626, 376
+Added Edge : 626, 72
+Added Node : 627, type : majority
+Added Edge : 627, 457
+Added Edge : 627, 395
+Added Node : 628, type : majority
+Added Edge : 628, 189
+Added Edge : 628, 166
+Added Node : 629, type : minority
+Added Edge : 629, 10
+Added Edge : 629, 168
+Added Node : 630, type : minority
+Added Edge : 630, 528
+Added Edge : 630, 399
+Added Node : 631, type : minority
+Added Edge : 631, 37
+Added Edge : 631, 600
+Added Node : 632, type : minority
+Added Edge : 632, 157
+Added Edge : 632, 7
+Added Node : 633, type : majority
+Added Edge : 633, 2
+Added Edge : 633, 260
+Added Node : 634, type : minority
+Added Edge : 634, 435
+Added Edge : 634, 221
+Added Node : 635, type : majority
+Added Edge : 635, 34
+Added Edge : 635, 146
+Added Node : 636, type : majority
+Added Edge : 636, 59
+Added Edge : 636, 31
+Added Node : 637, type : minority
+Added Edge : 637, 459
+Added Edge : 637, 510
+Added Node : 638, type : minority
+Added Edge : 638, 77
+Added Edge : 638, 119
+Added Node : 639, type : minority
+Added Edge : 639, 17
+Added Edge : 639, 10
+Added Node : 640, type : minority
+Added Edge : 640, 187
+Added Edge : 640, 482
+Added Node : 641, type : minority
+Added Edge : 641, 103
+Added Edge : 641, 239
+Added Node : 642, type : minority
+Added Edge : 642, 10
+Added Edge : 642, 597
+Added Node : 643, type : minority
+Added Edge : 643, 548
+Added Edge : 643, 357
+Added Node : 644, type : minority
+Added Edge : 644, 146
+Added Edge : 644, 484
+Added Node : 645, type : majority
+Added Edge : 645, 334
+Added Edge : 645, 351
+Added Node : 646, type : minority
+Added Edge : 646, 7
+Added Edge : 646, 1
+Added Node : 647, type : minority
+Added Edge : 647, 415
+Added Edge : 647, 81
+Added Node : 648, type : minority
+Added Edge : 648, 53
+Added Edge : 648, 646
+Added Node : 649, type : majority
+Added Edge : 649, 44
+Added Edge : 649, 105
+Added Node : 650, type : majority
+Added Edge : 650, 519
+Added Edge : 650, 126
+Added Node : 651, type : majority
+Added Edge : 651, 267
+Added Edge : 651, 569
+Added Node : 652, type : majority
+Added Edge : 652, 236
+Added Edge : 652, 11
+Added Node : 653, type : majority
+Added Edge : 653, 89
+Added Edge : 653, 60
+Added Node : 654, type : minority
+Added Edge : 654, 152
+Added Edge : 654, 308
+Added Node : 655, type : majority
+Added Edge : 655, 198
+Added Edge : 655, 97
+Added Node : 656, type : minority
+Added Edge : 656, 571
+Added Edge : 656, 30
+Added Node : 657, type : minority
+Added Edge : 657, 8
+Added Edge : 657, 558
+Added Node : 658, type : majority
+Added Edge : 658, 462
+Added Edge : 658, 478
+Added Node : 659, type : minority
+Added Edge : 659, 38
+Added Edge : 659, 16
+Added Node : 660, type : minority
+Added Edge : 660, 62
+Added Edge : 660, 2
+Added Node : 661, type : majority
+Added Edge : 661, 34
+Added Edge : 661, 529
+Added Node : 662, type : minority
+Added Edge : 662, 339
+Added Edge : 662, 572
+Added Node : 663, type : majority
+Added Edge : 663, 559
+Added Edge : 663, 624
+Added Node : 664, type : majority
+Added Edge : 664, 565
+Added Edge : 664, 2
+Added Node : 665, type : minority
+Added Edge : 665, 28
+Added Edge : 665, 22
+Added Node : 666, type : majority
+Added Edge : 666, 1
+Added Edge : 666, 466
+Added Node : 667, type : majority
+Added Edge : 667, 472
+Added Edge : 667, 104
+Added Node : 668, type : majority
+Added Edge : 668, 36
+Added Edge : 668, 375
+Added Node : 669, type : majority
+Added Edge : 669, 355
+Added Edge : 669, 330
+Added Node : 670, type : minority
+Added Edge : 670, 236
+Added Edge : 670, 1
+Added Node : 671, type : majority
+Added Edge : 671, 609
+Added Edge : 671, 35
+Added Node : 672, type : majority
+Added Edge : 672, 502
+Added Edge : 672, 17
+Added Node : 673, type : minority
+Added Edge : 673, 409
+Added Edge : 673, 530
+Added Node : 674, type : minority
+Added Edge : 674, 231
+Added Edge : 674, 10
+Added Node : 675, type : majority
+Added Edge : 675, 403
+Added Edge : 675, 373
+Added Node : 676, type : majority
+Added Edge : 676, 222
+Added Edge : 676, 133
+Added Node : 677, type : majority
+Added Edge : 677, 21
+Added Edge : 677, 329
+Added Node : 678, type : minority
+Added Edge : 678, 207
+Added Edge : 678, 620
+Added Node : 679, type : majority
+Added Edge : 679, 473
+Added Edge : 679, 302
+Added Node : 680, type : majority
+Added Edge : 680, 4
+Added Edge : 680, 269
+Added Node : 681, type : majority
+Added Edge : 681, 452
+Added Edge : 681, 395
+Added Node : 682, type : majority
+Added Edge : 682, 1
+Added Edge : 682, 128
+Added Node : 683, type : majority
+Added Edge : 683, 1
+Added Edge : 683, 77
+Added Node : 684, type : minority
+Added Edge : 684, 600
+Added Edge : 684, 338
+Added Node : 685, type : majority
+Added Edge : 685, 78
+Added Edge : 685, 50
+Added Node : 686, type : majority
+Added Edge : 686, 516
+Added Edge : 686, 544
+Added Node : 687, type : minority
+Added Edge : 687, 223
+Added Edge : 687, 512
+Added Node : 688, type : minority
+Added Edge : 688, 558
+Added Edge : 688, 483
+Added Node : 689, type : minority
+Added Edge : 689, 10
+Added Edge : 689, 202
+Added Node : 690, type : majority
+Added Edge : 690, 55
+Added Edge : 690, 682
+Added Node : 691, type : minority
+Added Edge : 691, 18
+Added Edge : 691, 16
+Added Node : 692, type : minority
+Added Edge : 692, 335
+Added Edge : 692, 128
+Added Node : 693, type : majority
+Added Edge : 693, 596
+Added Edge : 693, 233
+Added Node : 694, type : minority
+Added Edge : 694, 107
+Added Edge : 694, 546
+Added Node : 695, type : majority
+Added Edge : 695, 289
+Added Edge : 695, 6
+Added Node : 696, type : majority
+Added Edge : 696, 435
+Added Edge : 696, 386
+Added Node : 697, type : minority
+Added Edge : 697, 208
+Added Edge : 697, 238
+Added Node : 698, type : majority
+Added Edge : 698, 521
+Added Edge : 698, 620
+Added Node : 699, type : minority
+Added Edge : 699, 462
+Added Edge : 699, 348
+Added Node : 700, type : majority
+Added Edge : 700, 408
+Added Edge : 700, 27
+Added Node : 701, type : majority
+Added Edge : 701, 272
+Added Edge : 701, 1
+Added Node : 702, type : majority
+Added Edge : 702, 45
+Added Edge : 702, 420
+Added Node : 703, type : majority
+Added Edge : 703, 40
+Added Edge : 703, 261
+Added Node : 704, type : majority
+Added Edge : 704, 23
+Added Edge : 704, 648
+Added Node : 705, type : minority
+Added Edge : 705, 216
+Added Edge : 705, 679
+Added Node : 706, type : minority
+Added Edge : 706, 178
+Added Edge : 706, 474
+Added Node : 707, type : minority
+Added Edge : 707, 0
+Added Edge : 707, 10
+Added Node : 708, type : minority
+Added Edge : 708, 179
+Added Edge : 708, 76
+Added Node : 709, type : minority
+Added Edge : 709, 334
+Added Edge : 709, 1
+Added Node : 710, type : majority
+Added Edge : 710, 590
+Added Edge : 710, 39
+Added Node : 711, type : minority
+Added Edge : 711, 510
+Added Edge : 711, 2
+Added Node : 712, type : minority
+Added Edge : 712, 461
+Added Edge : 712, 82
+Added Node : 713, type : minority
+Added Edge : 713, 640
+Added Edge : 713, 594
+Added Node : 714, type : minority
+Added Edge : 714, 449
+Added Edge : 714, 427
+Added Node : 715, type : minority
+Added Edge : 715, 178
+Added Edge : 715, 279
+Added Node : 716, type : majority
+Added Edge : 716, 267
+Added Edge : 716, 504
+Added Node : 717, type : majority
+Added Edge : 717, 87
+Added Edge : 717, 538
+Added Node : 718, type : minority
+Added Edge : 718, 116
+Added Edge : 718, 356
+Added Node : 719, type : majority
+Added Edge : 719, 305
+Added Edge : 719, 23
+Added Node : 720, type : minority
+Added Edge : 720, 212
+Added Edge : 720, 298
+Added Node : 721, type : majority
+Added Edge : 721, 15
+Added Edge : 721, 191
+Added Node : 722, type : minority
+Added Edge : 722, 295
+Added Edge : 722, 470
+Added Node : 723, type : minority
+Added Edge : 723, 63
+Added Edge : 723, 112
+Added Node : 724, type : majority
+Added Edge : 724, 151
+Added Edge : 724, 132
+Added Node : 725, type : majority
+Added Edge : 725, 303
+Added Edge : 725, 318
+Added Node : 726, type : minority
+Added Edge : 726, 657
+Added Edge : 726, 2
+Added Node : 727, type : majority
+Added Edge : 727, 257
+Added Edge : 727, 633
+Added Node : 728, type : minority
+Added Edge : 728, 99
+Added Edge : 728, 360
+Added Node : 729, type : majority
+Added Edge : 729, 1
+Added Edge : 729, 381
+Added Node : 730, type : minority
+Added Edge : 730, 127
+Added Edge : 730, 231
+Added Node : 731, type : minority
+Added Edge : 731, 25
+Added Edge : 731, 20
+Added Node : 732, type : minority
+Added Edge : 732, 110
+Added Edge : 732, 316
+Added Node : 733, type : majority
+Added Edge : 733, 9
+Added Edge : 733, 132
+Added Node : 734, type : minority
+Added Edge : 734, 46
+Added Edge : 734, 706
+Added Node : 735, type : minority
+Added Edge : 735, 611
+Added Edge : 735, 46
+Added Node : 736, type : majority
+Added Edge : 736, 136
+Added Edge : 736, 8
+Added Node : 737, type : minority
+Added Edge : 737, 92
+Added Edge : 737, 329
+Added Node : 738, type : minority
+Added Edge : 738, 277
+Added Edge : 738, 7
+Added Node : 739, type : majority
+Added Edge : 739, 327
+Added Edge : 739, 3
+Added Node : 740, type : majority
+Added Edge : 740, 124
+Added Edge : 740, 243
+Added Node : 741, type : majority
+Added Edge : 741, 369
+Added Edge : 741, 382
+Added Node : 742, type : majority
+Added Edge : 742, 139
+Added Edge : 742, 329
+Added Node : 743, type : majority
+Added Edge : 743, 8
+Added Edge : 743, 250
+Added Node : 744, type : minority
+Added Edge : 744, 247
+Added Edge : 744, 330
+Added Node : 745, type : majority
+Added Edge : 745, 286
+Added Edge : 745, 26
+Added Node : 746, type : minority
+Added Edge : 746, 278
+Added Edge : 746, 659
+Added Node : 747, type : majority
+Added Edge : 747, 272
+Added Edge : 747, 651
+Added Node : 748, type : minority
+Added Edge : 748, 172
+Added Edge : 748, 18
+Added Node : 749, type : majority
+Added Edge : 749, 155
+Added Edge : 749, 97
+Added Node : 750, type : minority
+Added Edge : 750, 9
+Added Edge : 750, 7
+Added Node : 751, type : majority
+Added Edge : 751, 251
+Added Edge : 751, 132
+Added Node : 752, type : minority
+Added Edge : 752, 300
+Added Edge : 752, 328
+Added Node : 753, type : minority
+Added Edge : 753, 77
+Added Edge : 753, 202
+Added Node : 754, type : majority
+Added Edge : 754, 104
+Added Edge : 754, 109
+Added Node : 755, type : majority
+Added Edge : 755, 586
+Added Edge : 755, 418
+Added Node : 756, type : majority
+Added Edge : 756, 36
+Added Edge : 756, 515
+Added Node : 757, type : majority
+Added Edge : 757, 516
+Added Edge : 757, 95
+Added Node : 758, type : minority
+Added Edge : 758, 737
+Added Edge : 758, 320
+Added Node : 759, type : majority
+Added Edge : 759, 40
+Added Edge : 759, 292
+Added Node : 760, type : majority
+Added Edge : 760, 55
+Added Edge : 760, 114
+Added Node : 761, type : majority
+Added Edge : 761, 612
+Added Edge : 761, 140
+Added Node : 762, type : minority
+Added Edge : 762, 20
+Added Edge : 762, 196
+Added Node : 763, type : majority
+Added Edge : 763, 23
+Added Edge : 763, 1
+Added Node : 764, type : majority
+Added Edge : 764, 452
+Added Edge : 764, 533
+Added Node : 765, type : majority
+Added Edge : 765, 608
+Added Edge : 765, 657
+Added Node : 766, type : majority
+Added Edge : 766, 1
+Added Edge : 766, 326
+Added Node : 767, type : minority
+Added Edge : 767, 238
+Added Edge : 767, 621
+Added Node : 768, type : minority
+Added Edge : 768, 7
+Added Edge : 768, 748
+Added Node : 769, type : majority
+Added Edge : 769, 575
+Added Edge : 769, 78
+Added Node : 770, type : minority
+Added Edge : 770, 355
+Added Edge : 770, 17
+Added Node : 771, type : majority
+Added Edge : 771, 693
+Added Edge : 771, 78
+Added Node : 772, type : majority
+Added Edge : 772, 403
+Added Edge : 772, 201
+Added Node : 773, type : majority
+Added Edge : 773, 550
+Added Edge : 773, 442
+Added Node : 774, type : minority
+Added Edge : 774, 49
+Added Edge : 774, 103
+Added Node : 775, type : majority
+Added Edge : 775, 61
+Added Edge : 775, 44
+Added Node : 776, type : minority
+Added Edge : 776, 212
+Added Edge : 776, 646
+Added Node : 777, type : majority
+Added Edge : 777, 141
+Added Edge : 777, 372
+Added Node : 778, type : majority
+Added Edge : 778, 169
+Added Edge : 778, 394
+Added Node : 779, type : minority
+Added Edge : 779, 501
+Added Edge : 779, 174
+Added Node : 780, type : minority
+Added Edge : 780, 678
+Added Edge : 780, 402
+Added Node : 781, type : minority
+Added Edge : 781, 309
+Added Edge : 781, 437
+Added Node : 782, type : minority
+Added Edge : 782, 242
+Added Edge : 782, 17
+Added Node : 783, type : minority
+Added Edge : 783, 174
+Added Edge : 783, 427
+Added Node : 784, type : minority
+Added Edge : 784, 349
+Added Edge : 784, 222
+Added Node : 785, type : majority
+Added Edge : 785, 80
+Added Edge : 785, 69
+Added Node : 786, type : majority
+Added Edge : 786, 612
+Added Edge : 786, 8
+Added Node : 787, type : majority
+Added Edge : 787, 771
+Added Edge : 787, 190
+Added Node : 788, type : minority
+Added Edge : 788, 168
+Added Edge : 788, 470
+Added Node : 789, type : majority
+Added Edge : 789, 321
+Added Edge : 789, 686
+Added Node : 790, type : majority
+Added Edge : 790, 96
+Added Edge : 790, 120
+Added Node : 791, type : majority
+Added Edge : 791, 106
+Added Edge : 791, 255
+Added Node : 792, type : minority
+Added Edge : 792, 61
+Added Edge : 792, 17
+Added Node : 793, type : minority
+Added Edge : 793, 531
+Added Edge : 793, 316
+Added Node : 794, type : majority
+Added Edge : 794, 2
+Added Edge : 794, 237
+Added Node : 795, type : majority
+Added Edge : 795, 260
+Added Edge : 795, 322
+Added Node : 796, type : minority
+Added Edge : 796, 739
+Added Edge : 796, 238
+Added Node : 797, type : majority
+Added Edge : 797, 106
+Added Edge : 797, 578
+Added Node : 798, type : minority
+Added Edge : 798, 67
+Added Edge : 798, 187
+Added Node : 799, type : minority
+Added Edge : 799, 153
+Added Edge : 799, 477
+Added Node : 800, type : majority
+Added Edge : 800, 15
+Added Edge : 800, 77
+Added Node : 801, type : minority
+Added Edge : 801, 432
+Added Edge : 801, 646
+Added Node : 802, type : majority
+Added Edge : 802, 75
+Added Edge : 802, 5
+Added Node : 803, type : majority
+Added Edge : 803, 205
+Added Edge : 803, 645
+Added Node : 804, type : majority
+Added Edge : 804, 239
+Added Edge : 804, 580
+Added Node : 805, type : majority
+Added Edge : 805, 599
+Added Edge : 805, 40
+Added Node : 806, type : majority
+Added Edge : 806, 35
+Added Edge : 806, 114
+Added Node : 807, type : majority
+Added Edge : 807, 452
+Added Edge : 807, 1
+Added Node : 808, type : majority
+Added Edge : 808, 159
+Added Edge : 808, 34
+Added Node : 809, type : majority
+Added Edge : 809, 297
+Added Edge : 809, 627
+Added Node : 810, type : minority
+Added Edge : 810, 316
+Added Edge : 810, 244
+Added Node : 811, type : majority
+Added Edge : 811, 622
+Added Edge : 811, 289
+Added Node : 812, type : minority
+Added Edge : 812, 0
+Added Edge : 812, 640
+Added Node : 813, type : minority
+Added Edge : 813, 526
+Added Edge : 813, 558
+Added Node : 814, type : minority
+Added Edge : 814, 640
+Added Edge : 814, 813
+Added Node : 815, type : majority
+Added Edge : 815, 178
+Added Edge : 815, 106
+Added Node : 816, type : majority
+Added Edge : 816, 84
+Added Edge : 816, 318
+Added Node : 817, type : majority
+Added Edge : 817, 128
+Added Edge : 817, 795
+Added Node : 818, type : majority
+Added Edge : 818, 55
+Added Edge : 818, 1
+Added Node : 819, type : majority
+Added Edge : 819, 590
+Added Edge : 819, 60
+Added Node : 820, type : minority
+Added Edge : 820, 534
+Added Edge : 820, 18
+Added Node : 821, type : minority
+Added Edge : 821, 31
+Added Edge : 821, 554
+Added Node : 822, type : minority
+Added Edge : 822, 350
+Added Edge : 822, 6
+Added Node : 823, type : minority
+Added Edge : 823, 349
+Added Edge : 823, 81
+Added Node : 824, type : majority
+Added Edge : 824, 248
+Added Edge : 824, 219
+Added Node : 825, type : minority
+Added Edge : 825, 17
+Added Edge : 825, 217
+Added Node : 826, type : minority
+Added Edge : 826, 195
+Added Edge : 826, 152
+Added Node : 827, type : minority
+Added Edge : 827, 392
+Added Edge : 827, 157
+Added Node : 828, type : minority
+Added Edge : 828, 7
+Added Edge : 828, 359
+Added Node : 829, type : minority
+Added Edge : 829, 366
+Added Edge : 829, 141
+Added Node : 830, type : minority
+Added Edge : 830, 13
+Added Edge : 830, 1
+Added Node : 831, type : majority
+Added Edge : 831, 582
+Added Edge : 831, 2
+Added Node : 832, type : minority
+Added Edge : 832, 202
+Added Edge : 832, 648
+Added Node : 833, type : minority
+Added Edge : 833, 693
+Added Edge : 833, 4
+Added Node : 834, type : majority
+Added Edge : 834, 26
+Added Edge : 834, 106
+Added Node : 835, type : majority
+Added Edge : 835, 191
+Added Edge : 835, 6
+Added Node : 836, type : majority
+Added Edge : 836, 164
+Added Edge : 836, 319
+Added Node : 837, type : minority
+Added Edge : 837, 51
+Added Edge : 837, 42
+Added Node : 838, type : minority
+Added Edge : 838, 2
+Added Edge : 838, 454
+Added Node : 839, type : minority
+Added Edge : 839, 284
+Added Edge : 839, 10
+Added Node : 840, type : majority
+Added Edge : 840, 455
+Added Edge : 840, 202
+Added Node : 841, type : minority
+Added Edge : 841, 495
+Added Edge : 841, 5
+Added Node : 842, type : majority
+Added Edge : 842, 243
+Added Edge : 842, 502
+Added Node : 843, type : minority
+Added Edge : 843, 424
+Added Edge : 843, 278
+Added Node : 844, type : minority
+Added Edge : 844, 783
+Added Edge : 844, 4
+Added Node : 845, type : majority
+Added Edge : 845, 89
+Added Edge : 845, 2
+Added Node : 846, type : minority
+Added Edge : 846, 187
+Added Edge : 846, 488
+Added Node : 847, type : minority
+Added Edge : 847, 62
+Added Edge : 847, 78
+Added Node : 848, type : minority
+Added Edge : 848, 402
+Added Edge : 848, 194
+Added Node : 849, type : majority
+Added Edge : 849, 392
+Added Edge : 849, 255
+Added Node : 850, type : majority
+Added Edge : 850, 775
+Added Edge : 850, 150
+Added Node : 851, type : minority
+Added Edge : 851, 648
+Added Edge : 851, 215
+Added Node : 852, type : minority
+Added Edge : 852, 128
+Added Edge : 852, 611
+Added Node : 853, type : minority
+Added Edge : 853, 7
+Added Edge : 853, 407
+Added Node : 854, type : majority
+Added Edge : 854, 447
+Added Edge : 854, 40
+Added Node : 855, type : minority
+Added Edge : 855, 16
+Added Edge : 855, 0
+Added Node : 856, type : minority
+Added Edge : 856, 181
+Added Edge : 856, 518
+Added Node : 857, type : minority
+Added Edge : 857, 103
+Added Edge : 857, 454
+Added Node : 858, type : minority
+Added Edge : 858, 305
+Added Edge : 858, 87
+Added Node : 859, type : majority
+Added Edge : 859, 35
+Added Edge : 859, 303
+Added Node : 860, type : majority
+Added Edge : 860, 391
+Added Edge : 860, 45
+Added Node : 861, type : majority
+Added Edge : 861, 335
+Added Edge : 861, 2
+Added Node : 862, type : minority
+Added Edge : 862, 788
+Added Edge : 862, 7
+Added Node : 863, type : majority
+Added Edge : 863, 88
+Added Edge : 863, 250
+Added Node : 864, type : majority
+Added Edge : 864, 407
+Added Edge : 864, 406
+Added Node : 865, type : majority
+Added Edge : 865, 661
+Added Edge : 865, 8
+Added Node : 866, type : majority
+Added Edge : 866, 694
+Added Edge : 866, 518
+Added Node : 867, type : majority
+Added Edge : 867, 197
+Added Edge : 867, 44
+Added Node : 868, type : minority
+Added Edge : 868, 239
+Added Edge : 868, 2
+Added Node : 869, type : minority
+Added Edge : 869, 17
+Added Edge : 869, 778
+Added Node : 870, type : minority
+Added Edge : 870, 42
+Added Edge : 870, 654
+Added Node : 871, type : minority
+Added Edge : 871, 92
+Added Edge : 871, 381
+Added Node : 872, type : majority
+Added Edge : 872, 766
+Added Edge : 872, 173
+Added Node : 873, type : majority
+Added Edge : 873, 2
+Added Edge : 873, 3
+Added Node : 874, type : minority
+Added Edge : 874, 58
+Added Edge : 874, 172
+Added Node : 875, type : minority
+Added Edge : 875, 416
+Added Edge : 875, 758
+Added Node : 876, type : majority
+Added Edge : 876, 126
+Added Edge : 876, 160
+Added Node : 877, type : minority
+Added Edge : 877, 44
+Added Edge : 877, 77
+Added Node : 878, type : minority
+Added Edge : 878, 415
+Added Edge : 878, 22
+Added Node : 879, type : minority
+Added Edge : 879, 84
+Added Edge : 879, 2
+Added Node : 880, type : majority
+Added Edge : 880, 671
+Added Edge : 880, 261
+Added Node : 881, type : majority
+Added Edge : 881, 444
+Added Edge : 881, 95
+Added Node : 882, type : majority
+Added Edge : 882, 256
+Added Edge : 882, 428
+Added Node : 883, type : minority
+Added Edge : 883, 19
+Added Edge : 883, 510
+Added Node : 884, type : minority
+Added Edge : 884, 7
+Added Edge : 884, 361
+Added Node : 885, type : minority
+Added Edge : 885, 10
+Added Edge : 885, 34
+Added Node : 886, type : majority
+Added Edge : 886, 75
+Added Edge : 886, 43
+Added Node : 887, type : minority
+Added Edge : 887, 681
+Added Edge : 887, 247
+Added Node : 888, type : minority
+Added Edge : 888, 34
+Added Edge : 888, 788
+Added Node : 889, type : minority
+Added Edge : 889, 879
+Added Edge : 889, 14
+Added Node : 890, type : minority
+Added Edge : 890, 183
+Added Edge : 890, 22
+Added Node : 891, type : majority
+Added Edge : 891, 95
+Added Edge : 891, 225
+Added Node : 892, type : minority
+Added Edge : 892, 418
+Added Edge : 892, 887
+Added Node : 893, type : minority
+Added Edge : 893, 384
+Added Edge : 893, 0
+Added Node : 894, type : majority
+Added Edge : 894, 1
+Added Edge : 894, 45
+Added Node : 895, type : majority
+Added Edge : 895, 282
+Added Edge : 895, 776
+Added Node : 896, type : majority
+Added Edge : 896, 384
+Added Edge : 896, 222
+Added Node : 897, type : minority
+Added Edge : 897, 7
+Added Edge : 897, 145
+Added Node : 898, type : minority
+Added Edge : 898, 149
+Added Edge : 898, 72
+Added Node : 899, type : minority
+Added Edge : 899, 62
+Added Edge : 899, 16
+Added Node : 900, type : majority
+Added Edge : 900, 27
+Added Edge : 900, 6
+Added Node : 901, type : majority
+Added Edge : 901, 303
+Added Edge : 901, 299
+Added Node : 902, type : majority
+Added Edge : 902, 76
+Added Edge : 902, 189
+Added Node : 903, type : majority
+Added Edge : 903, 171
+Added Edge : 903, 559
+Added Node : 904, type : minority
+Added Edge : 904, 67
+Added Edge : 904, 774
+Added Node : 905, type : minority
+Added Edge : 905, 187
+Added Edge : 905, 305
+Added Node : 906, type : majority
+Added Edge : 906, 222
+Added Edge : 906, 690
+Added Node : 907, type : minority
+Added Edge : 907, 17
+Added Edge : 907, 10
+Added Node : 908, type : minority
+Added Edge : 908, 251
+Added Edge : 908, 249
+Added Node : 909, type : majority
+Added Edge : 909, 598
+Added Edge : 909, 442
+Added Node : 910, type : majority
+Added Edge : 910, 16
+Added Edge : 910, 104
+Added Node : 911, type : majority
+Added Edge : 911, 252
+Added Edge : 911, 143
+Added Node : 912, type : minority
+Added Edge : 912, 9
+Added Edge : 912, 127
+Added Node : 913, type : majority
+Added Edge : 913, 844
+Added Edge : 913, 472
+Added Node : 914, type : minority
+Added Edge : 914, 292
+Added Edge : 914, 355
+Added Node : 915, type : minority
+Added Edge : 915, 1
+Added Edge : 915, 355
+Added Node : 916, type : majority
+Added Edge : 916, 816
+Added Edge : 916, 286
+Added Node : 917, type : majority
+Added Edge : 917, 208
+Added Edge : 917, 140
+Added Node : 918, type : minority
+Added Edge : 918, 174
+Added Edge : 918, 611
+Added Node : 919, type : majority
+Added Edge : 919, 2
+Added Edge : 919, 236
+Added Node : 920, type : majority
+Added Edge : 920, 21
+Added Edge : 920, 106
+Added Node : 921, type : minority
+Added Edge : 921, 9
+Added Edge : 921, 528
+Added Node : 922, type : minority
+Added Edge : 922, 36
+Added Edge : 922, 46
+Added Node : 923, type : minority
+Added Edge : 923, 5
+Added Edge : 923, 360
+Added Node : 924, type : minority
+Added Edge : 924, 31
+Added Edge : 924, 874
+Added Node : 925, type : majority
+Added Edge : 925, 34
+Added Edge : 925, 695
+Added Node : 926, type : majority
+Added Edge : 926, 6
+Added Edge : 926, 627
+Added Node : 927, type : minority
+Added Edge : 927, 625
+Added Edge : 927, 212
+Added Node : 928, type : minority
+Added Edge : 928, 147
+Added Edge : 928, 256
+Added Node : 929, type : majority
+Added Edge : 929, 142
+Added Edge : 929, 100
+Added Node : 930, type : majority
+Added Edge : 930, 1
+Added Edge : 930, 407
+Added Node : 931, type : minority
+Added Edge : 931, 99
+Added Edge : 931, 0
+Added Node : 932, type : majority
+Added Edge : 932, 308
+Added Edge : 932, 128
+Added Node : 933, type : minority
+Added Edge : 933, 108
+Added Edge : 933, 187
+Added Node : 934, type : minority
+Added Edge : 934, 84
+Added Edge : 934, 648
+Added Node : 935, type : minority
+Added Edge : 935, 1
+Added Edge : 935, 758
+Added Node : 936, type : minority
+Added Edge : 936, 158
+Added Edge : 936, 231
+Added Node : 937, type : minority
+Added Edge : 937, 648
+Added Edge : 937, 20
+Added Node : 938, type : majority
+Added Edge : 938, 238
+Added Edge : 938, 273
+Added Node : 939, type : majority
+Added Edge : 939, 457
+Added Edge : 939, 35
+Added Node : 940, type : majority
+Added Edge : 940, 351
+Added Edge : 940, 40
+Added Node : 941, type : minority
+Added Edge : 941, 600
+Added Edge : 941, 9
+Added Node : 942, type : majority
+Added Edge : 942, 367
+Added Edge : 942, 633
+Added Node : 943, type : minority
+Added Edge : 943, 80
+Added Edge : 943, 398
+Added Node : 944, type : minority
+Added Edge : 944, 528
+Added Edge : 944, 210
+Added Node : 945, type : majority
+Added Edge : 945, 36
+Added Edge : 945, 206
+Added Node : 946, type : minority
+Added Edge : 946, 218
+Added Edge : 946, 752
+Added Node : 947, type : majority
+Added Edge : 947, 483
+Added Edge : 947, 2
+Added Node : 948, type : minority
+Added Edge : 948, 858
+Added Edge : 948, 515
+Added Node : 949, type : minority
+Added Edge : 949, 576
+Added Edge : 949, 631
+Added Node : 950, type : minority
+Added Edge : 950, 323
+Added Edge : 950, 46
+Added Node : 951, type : minority
+Added Edge : 951, 656
+Added Edge : 951, 53
+Added Node : 952, type : majority
+Added Edge : 952, 406
+Added Edge : 952, 126
+Added Node : 953, type : minority
+Added Edge : 953, 208
+Added Edge : 953, 528
+Added Node : 954, type : minority
+Added Edge : 954, 534
+Added Edge : 954, 864
+Added Node : 955, type : minority
+Added Edge : 955, 73
+Added Edge : 955, 30
+Added Node : 956, type : minority
+Added Edge : 956, 594
+Added Edge : 956, 574
+Added Node : 957, type : majority
+Added Edge : 957, 575
+Added Edge : 957, 26
+Added Node : 958, type : minority
+Added Edge : 958, 0
+Added Edge : 958, 283
+Added Node : 959, type : minority
+Added Edge : 959, 855
+Added Edge : 959, 295
+Added Node : 960, type : majority
+Added Edge : 960, 145
+Added Edge : 960, 387
+Added Node : 961, type : majority
+Added Edge : 961, 739
+Added Edge : 961, 13
+Added Node : 962, type : majority
+Added Edge : 962, 381
+Added Edge : 962, 410
+Added Node : 963, type : majority
+Added Edge : 963, 73
+Added Edge : 963, 427
+Added Node : 964, type : majority
+Added Edge : 964, 189
+Added Edge : 964, 196
+Added Node : 965, type : majority
+Added Edge : 965, 510
+Added Edge : 965, 649
+Added Node : 966, type : minority
+Added Edge : 966, 10
+Added Edge : 966, 375
+Added Node : 967, type : minority
+Added Edge : 967, 10
+Added Edge : 967, 193
+Added Node : 968, type : majority
+Added Edge : 968, 256
+Added Edge : 968, 189
+Added Node : 969, type : minority
+Added Edge : 969, 10
+Added Edge : 969, 134
+Added Node : 970, type : minority
+Added Edge : 970, 416
+Added Edge : 970, 16
+Added Node : 971, type : minority
+Added Edge : 971, 839
+Added Edge : 971, 112
+Added Node : 972, type : majority
+Added Edge : 972, 45
+Added Edge : 972, 210
+Added Node : 973, type : majority
+Added Edge : 973, 123
+Added Edge : 973, 377
+Added Node : 974, type : majority
+Added Edge : 974, 219
+Added Edge : 974, 1
+Added Node : 975, type : majority
+Added Edge : 975, 808
+Added Edge : 975, 280
+Added Node : 976, type : minority
+Added Edge : 976, 648
+Added Edge : 976, 298
+Added Node : 977, type : minority
+Added Edge : 977, 589
+Added Edge : 977, 404
+Added Node : 978, type : majority
+Added Edge : 978, 280
+Added Edge : 978, 740
+Added Node : 979, type : minority
+Added Edge : 979, 30
+Added Edge : 979, 152
+Added Node : 980, type : majority
+Added Edge : 980, 226
+Added Edge : 980, 266
+Added Node : 981, type : majority
+Added Edge : 981, 150
+Added Edge : 981, 8
+Added Node : 982, type : majority
+Added Edge : 982, 142
+Added Edge : 982, 590
+Added Node : 983, type : minority
+Added Edge : 983, 11
+Added Edge : 983, 0
+Added Node : 984, type : minority
+Added Edge : 984, 630
+Added Edge : 984, 162
+Added Node : 985, type : majority
+Added Edge : 985, 75
+Added Edge : 985, 872
+Added Node : 986, type : majority
+Added Edge : 986, 617
+Added Edge : 986, 73
+Added Node : 987, type : majority
+Added Edge : 987, 73
+Added Edge : 987, 7
+Added Node : 988, type : majority
+Added Edge : 988, 189
+Added Edge : 988, 381
+Added Node : 989, type : majority
+Added Edge : 989, 473
+Added Edge : 989, 482
+Added Node : 990, type : minority
+Added Edge : 990, 103
+Added Edge : 990, 119
+Added Node : 991, type : minority
+Added Edge : 991, 5
+Added Edge : 991, 878
+Added Node : 992, type : majority
+Added Edge : 992, 886
+Added Edge : 992, 281
+Added Node : 993, type : majority
+Added Edge : 993, 415
+Added Edge : 993, 182
+Added Node : 994, type : majority
+Added Edge : 994, 903
+Added Edge : 994, 568
+Added Node : 995, type : majority
+Added Edge : 995, 842
+Added Edge : 995, 693
+Added Node : 996, type : minority
+Added Edge : 996, 152
+Added Edge : 996, 370
+Added Node : 997, type : minority
+Added Edge : 997, 847
+Added Edge : 997, 95
+Added Node : 998, type : majority
+Added Edge : 998, 512
+Added Edge : 998, 87
+Added Node : 999, type : majority
+Added Edge : 999, 106
+Added Edge : 999, 286

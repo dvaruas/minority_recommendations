@@ -1,0 +1,27 @@
+\chapter{Conclusion}
+\label{conclusions}
+\thispagestyle{empty}
+
+Through our thesis we try to understand bias present in networks owing to the use of recommender systems which are an integral parts of any social network today. Constructing experiments through synthetic networks and also considering empirical networks for our study, we see the effect of 5 different recommender systems, among which two of the recommender systems we consider are novel to the user-recommendation scenario based on the \textit{reinforcement learning} methods. The \textit{reinforcement method} results closely follow that of the \textit{PA-Homophily} method since their underlying driving engine is similar which shows us that reinforcement learning models can be used in user recommendation scenarios too with proper training models. Our findings mostly show that there is greater bias in visibility in the heterophilic regime for minority nodes, and this bias is larger with a smaller minority group. Methods like \textit{Adamic-Adar} and \textit{Twitter-Rank} showed bias free network evolution and almost equal visibility for both groups across different homophily values. 
+
+\subsubsection{Static synthetic Networks}
+For the first part of our first research goal we look at static synthetic networks. These are synthetic networks which have been pre-generated using the \textit{Barabási-Albert with homophily network generation model} \cite{karimi2018homophily}. We tune parameters like homophily and the minority group size to get different networks. We then use our recommendation engines to get recommendations for all nodes in the networks. Upon receiving such recommendation lists we apply the disparate visibility measure to check if the nodes from different groups get visibility comparable to their group size. 
+
+From our experiments we find that the minority visibility is much higher in the heterophilic regime for smaller minority group sizes. As the minority group size increases the visibility becomes equalized. In the homophilic regime, the relative visibility is found to be quite equal for both groups. We also find out that \textit{Adamic-Adar} and \textit{Twitter-Rank} methods produce recommendations for nodes having equal visibility.
+
+\subsubsection{Growing synthetic Networks}
+For the second research goal, we see how the network structure is evolved when they are grown over a certain number of iterations using the different recommendation systems. We vary different parameters like minority fraction and homophily values in these simulations and grow networks for 10000 iterations from scratch with the \textit{organic} and \textit{algorithmic} growth as is seen in real-world networks.
+
+Our findings show that for both the \textit{PA-Homophily} and the \textit{reinforcement methods} the minorities are over-represented at the heterophilic regime and underrepresented in the homophilic regime. We find that \textit{Adamic-Adar} and \textit{Twitter-Rank} provides us with networks which have better visibility according to group size for all homophily values. In the case of \textit{Adamic-Adar} we see nodes in the network gaining very high degrees while in the case of \textit{Twitter-Rank} the nodes have a more distributed degree owing to the personalized PageRank approach used in its method.
+
+\subsubsection{Empirical Networks}
+For the second part of our first research goal we look at empirical networks. These are real-world static snapshots of networks. For our experiments we use 4 networks from the \textbf{Facebook100} \cite{traud2012social} dataset, which is a Facebook friendship network dataset for different universities in USA. 
+
+We pre-process the networks to form adjacency matrices and use the gender attribute in the nodes to form the majority and minority groups. We estimate the homophily value in the network using the method outlined by Karimi et. al. \cite{karimi2018homophily}. We set up our experiment much like that for \textit{static synthetic networks}, where we use our recommendation systems to get recommendation lists for all nodes in the network and then look for the bias in recommendations using the disparate visibility measure.
+
+In our results we find out a limitation for our study (while looking at the network \textbf{Caltech36}) which shows us that we lack data points of disparate visibility behavior for many networks which lie in different homophilies in-between which are not considered during our synthetic networks experiments.
+
+Most of the networks we use in our study of empirical networks also have almost equal group sizes so they show near equal visibility. We observe that the \textit{Top-Rank} method at a ranking factor of $r=1.0$ (full ranking effect), shows a distinctly different behavior for all networks which is different than what we observe in our static network experiments.
+
+\subsubsection{Future Work}
+There are many limitations for our work like use of less number of nodes for synthetic networks, consideration of less variations of homophily and fewer simulations which can all be done for further better analysis of recommender bias in networks. Also collection and use of empirical data to understand clicking behavior of recommendations in social platforms would be a huge help in defining the click model for reinforcement methods. Working towards how to mitigate bias in the recommender systems for the generation of equal visibility networks in the growing mechanism is also another interesting extension to our work.

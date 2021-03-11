@@ -1,0 +1,23 @@
+minority_fraction = 0.05
+Simmons81, f = 0.01, total = 1422, male minority, h_aa = 0.01, h_bb = 0.99
+
+minority_fraction = 0.1
+None
+
+minority_fraction = 0.2
+Mich67, f = 0.27, total = 3563, female minority, h_aa = 0.26, h_bb = 0.48
+
+minority_fraction = 0.3
+Caltech36, f = 0.32, total = 703, female minority, h_aa = 0.26, h_bb = 0.48
+
+minority_fraction = 0.32
+USFCA72, total = 2507, male minority, h_aa = 0.22, h_bb = 0.5
+
+minority_fraction = 0.4
+Carnegie49, total = 6094, female minority, h_aa = 0.36, h_bb = 0.4
+
+minority_fraction = 0.5
+Amherst41, total = 2032, female minority, h_aa = 0.38, h_bb = 0.34
+
+Symmetric homophily (can remove this)
+Dartmouth6, total = 6654, female minority, h_aa = 0.38, h_bb = 0.38

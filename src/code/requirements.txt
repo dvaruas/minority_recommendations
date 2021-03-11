@@ -1,0 +1,8 @@
+# For managing networks
+networkx
+# For plotting
+matplotlib
+# For handling numerical data
+numpy
+# For app in snapshot_explorer
+Flask

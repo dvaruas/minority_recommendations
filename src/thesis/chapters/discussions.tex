@@ -1,0 +1,46 @@
+\chapter{Discussions}
+\label{discussions}
+\thispagestyle{empty}
+
+In this chapter we discuss the limitations of our work and also look into future directions in which our work could be extended. 
+
+\section{Limitations}
+
+We look at the different limitations our work faces by moving through each individual section of our thesis.
+
+\subsubsection{Methods}
+We list down below some limitations in our approach for the methods chosen by us.
+
+\begin{enumerate}
+	\item For the method \textbf{Twitter-Rank} based on \textit{Who-To-Follow} architecture of Twitter, we do not consider some of the steps outlined in the original approach. In the method outline by Gupta et. al. \cite{gupta2013wtf}, they talk about using multiple iterations of the SALSA method for computing final scores while we use only a single iteration due to limited computation power. Also, in their work they hint about using homophily in the network as a parameter to further enhance user-recommendations but they do not detail any steps on how they wish to use it. Our consideration of the method is completely unconcerned of the homophily parameter, and using that would definitely give us very different results as compared to what we see in our experiments. 
+	
+	\item We construct a \textbf{click model} in section \ref{click_model} based on the \textit{``Preferential Attachment with Homophily''} model by Karimi et. al. \cite{karimi2018homophily}. However, this model is very simplistic in nature and fails to capture the essence of clicks on recommendations provided in the real-world social networks. We use this model due to the lack of any real-world data on recommendations and user choices, thus making broad assumptions in the case of \textit{reinforcement methods}. A reinforcement model is only as good as its click model, hence this is a big limitation for our study.
+\end{enumerate}
+
+\subsubsection{Synthetic Networks}
+The synthetic networks generated for our research goals have very few nodes. For both \textit{Static networks} and \textit{Growing networks} we use only 1000 node networks. Our choice of less number of nodes is due to computational constraints.
+
+In the case of \textit{static networks}, we needed to compute recommendations for 1000 nodes by each recommendation method, where each method takes a considerable amount of time. In the case of \textit{growing networks} we grew our networks for 10000 iterations, which gives us roughly 1000 nodes (with an organic growth probability of 0.1). Roughly 9000 of those iterations require recommendations which has a high computational cost associated with it. Having less number of nodes in our simulated network along with having fewer simulations for each case gives us somewhat unstable results as can be seen in the error bars for different plots.
+
+\subsubsection{Case Study}
+For the networks we choose from \textbf{Facebook100} we are forced to choose networks having less number of nodes to use less computation time for recommendations. Although there were networks which could give us varied homophily and minority fractions, we were unable to look at the recommendation bias for them.
+
+Another major limitation is also the use of our \textit{click model} from section \ref{click_model}. This click model is in not representative of the way Facebook network users form connections and is only a theoretical generalization. The ideal scenario would be to have clicking behavior data for Facebook users recommendation and using them to train our reinforcement learning models to get more aligned predictions.
+
+\section{Future Work}
+
+There are a couple of directions which could be interesting to explore going forward from here.
+
+\begin{enumerate}
+	\item As we have mentioned in the limitations of our work, it would be good to conduct the experiments with larger synthetic networks. Also we use limited homophily values and hence many observations are missed. One such observation we already saw in our analysis of disparate visibility for empirical networks. Specially the nature of bias at homophily values range [0.2, 0.8] would be interesting to observe.
+	
+	\item We only consider undirected networks in our work, however in real-world there are many social networks which are directed (for example Twitter or Instagram). Analysis of these kinds of network would give broader understanding of bias in such networks.
+	
+	\item There are multiple other methods for node recommendation which we do not consider in our work. Exploring them could be interesting as our recommendation methods give slightly different results for disparate visibility than the methods which were used by Fabrri et. al. in \cite{fabbri2020effect}. Also, we consider only node attributes but some recommendation methods also consider edge attributes, like in the work of Backstorm et. al. \cite{backstrom2011supervised} which is possibly used for Facebook user recommendations. 
+	
+	\item We only use a single \textit{click model} for all our experiments. Most of the click model research is based around search query results and there is not much existing work for selection of users from recommended lists. This could be worthwhile to investigate if we wish to formulate reinforcement learning models for recommendation tasks. Thus collection of real-world data for clicking behavior in different online social networks would be imperative to such studies.
+	
+	\item Exploring ways to mitigate the bias in recommendations for the different methods is also something which could be studied. Our experiments do show huge bias specially in the heterophilic regime. How this bias can be handled so that the evolving networks would have balanced visibility is something worth exploring.
+	
+	\item For the empirical networks we only use \textit{gender} as the node attribute to differentiate nodes into groups. Using other attributes to create different groups and observing the homophily between them could also be another approach for studying these empirical networks.
+\end{enumerate}
